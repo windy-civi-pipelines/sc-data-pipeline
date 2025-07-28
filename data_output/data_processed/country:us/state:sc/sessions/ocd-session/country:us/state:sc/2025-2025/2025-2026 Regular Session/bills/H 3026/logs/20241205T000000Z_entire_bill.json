@@ -1,0 +1,121 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "H 3026",
+  "title": "Bond, circuit court for illegal aliens",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING SECTION 17-15-30, RELATING TO BOND AND MATTERS TO BE CONSIDERED IN DETERMINING CONDITIONS OF RELEASE, SO AS TO REQUIRE A CIRCUIT COURT JUDGE TO SET OR DENY BOND AND DETERMINE CONDITIONS OF RELEASE OF PERSONS CHARGED WITH CRIMES THAT CARRY MAXIMUM SENTENCES OF THREE YEARS OR MORE AND WHO ARE SUSPECTED OF BEING ILLEGAL ALIENS."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Prefiled",
+      "date": "2024-12-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to Committee on Judiciary",
+      "date": "2024-12-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Introduced and read first time",
+      "date": "2025-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to Committee on Judiciary",
+      "date": "2025-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Beach",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Beach\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Chumley",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Chumley\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "12/05/2024",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/3026_20241205.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3026.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3026.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=3026&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "scraped_at": "2025-07-28T18:39:49+00:00",
+  "_id": "3e1379e0-6be2-11f0-bf34-96e81bacb000"
+}

@@ -1,0 +1,95 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "H 4255",
+  "title": "Civil Litigation Reform",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY ADDING SECTION 1-7-95 SO AS TO PROVIDE GUIDELINES FOR ENFORCEMENT ACTIONS BROUGHT BY THE ATTORNEY GENERAL IN THE NAME OF THE STATE; BY ADDING SECTION 39-5-55 SO AS TO PROVIDE THE ATTORNEY GENERAL WITH THE REMEDY OF DISGORGEMENT; AND BY ADDING SECTION 39-5-85 SO AS TO PROVIDE PRIVILEGE TO CERTAIN MATERIALS PREPARED OR DRAFTED BY OR FOR THE ATTORNEY GENERAL FOR LAW ENFORCEMENT PURPOSES."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced and read first time",
+      "date": "2025-03-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to Committee on Judiciary",
+      "date": "2025-03-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Mitchell",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Mitchell\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "03/27/2025",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/4255_20250327.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4255.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4255.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=4255&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "scraped_at": "2025-07-28T18:31:19+00:00",
+  "_id": "0e2a3cc4-6be1-11f0-bf34-96e81bacb000"
+}

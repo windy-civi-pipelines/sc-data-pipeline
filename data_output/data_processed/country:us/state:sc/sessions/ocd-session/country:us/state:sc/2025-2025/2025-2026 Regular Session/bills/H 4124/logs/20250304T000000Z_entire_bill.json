@@ -1,0 +1,103 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "H 4124",
+  "title": "Special license plates, Afghanistan War Veteran",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING SECTION 56-3-14950, RELATING TO THE ISSUANCE OF SPECIAL LICENSE PLATES REFLECTIVE OF CAMPAIGN MEDALS FOR SERVICE MEMBERS WHO PARTICIPATED IN CERTAIN MILITARY CAMPAIGNS, SO AS TO ADD AFGHANISTAN WAR VETERANS SPECIAL LICENSE PLATE."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced and read first time",
+      "date": "2025-03-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to Committee on Education and Public Works",
+      "date": "2025-03-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Pope",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Pope\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Forrest",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Forrest\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "03/04/2025",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/4124_20250304.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4124.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4124.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=4124&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "scraped_at": "2025-07-28T18:32:09+00:00",
+  "_id": "2bbc7374-6be1-11f0-bf34-96e81bacb000"
+}

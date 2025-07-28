@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Referred to Committee on Transportation",
+    "date": "2025-02-27",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "S 400"
+}

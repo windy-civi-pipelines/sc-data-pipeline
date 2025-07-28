@@ -1,0 +1,111 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "S 204",
+  "title": "Alien Ownership of Real Property",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING SECTION 27-13-30, RELATING TO THE LIMITATION ON ALIEN LAND OWNERSHIP, SO AS TO PROVIDE THAT CORPORATIONS CONTROLLED BY A FOREIGN ADVERSARY CANNOT ACQUIRE AN INTEREST IN REAL PROPERTY IN THIS STATE; TO DEFINE NECESSARY TERMS; AND TO REDUCE THE AMOUNT OF REAL PROPERTY THAT AN ALIEN OR CORPORATION MAY ACQUIRE AN INTEREST IN FROM FIVE HUNDRED THOUSAND ACRES TO ONE THOUSAND ACRES; AND BY ADDING SECTION 15-35-190 SO AS TO PROVIDE THAT IN A CIVIL ACTION INITIATED BY A PARTY CONTROLLED BY A FOREIGN ADVERSARY, THE PARTY ADVERSE TO THE PARTY CONTROLLED BY A FOREIGN ADVERSARY IS ENTITLED TO SUMMARY JUDGMENT IN HIS FAVOR IF THAT PARTY SHOWS TO THE COURT THAT THE PARTY CONTROLLED BY A FOREIGN ADVERSARY IS ENGAGED IN AN ABUSE OF PROCESS."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced and read first time",
+      "date": "2025-01-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to Committee on Judiciary",
+      "date": "2025-01-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Massey",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Massey\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rice",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Rice\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Zell",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Zell\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "01/15/2025",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/204_20250115.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/204.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/204.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=204&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "scraped_at": "2025-07-28T18:27:50+00:00",
+  "_id": "917f9ad4-6be0-11f0-bf34-96e81bacb000"
+}

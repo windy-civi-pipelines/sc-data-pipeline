@@ -1,0 +1,95 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "S 249",
+  "title": "Nonjudicial candidates, pledges and election",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING SECTION 2-20-30, RELATING TO PUBLIC HEARING OF NONJUDICIAL CANDIDATES, SO AS TO ELIMINATE THE REQUIREMENT THAT HEARINGS BE CONDUCTED NO LATER THAN TWO WEEKS PRIOR TO THE DATE SET FOR THE ELECTION, TO PROVIDE THAT CANDIDATES MAY NOT OBTAIN PLEDGES OR COMMITMENTS UNTIL THE TWELFTH DAY AFTER THE NAMES OF THE NOMINEES HAVE BEEN RELEASED, AND TO REQUIRE THAT A PERIOD OF TWENTY-TWO DAYS ELAPSE BETWEEN THE DATE THAT THE REPORT OF NOMINATIONS IS RELEASED AND THE TIME SET FOR THE ELECTION."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced and read first time",
+      "date": "2025-01-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to Committee on Judiciary",
+      "date": "2025-01-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Campsen",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Campsen\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "01/21/2025",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/249_20250121.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/249.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/249.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=249&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "scraped_at": "2025-07-28T18:27:39+00:00",
+  "_id": "8ab62eca-6be0-11f0-bf34-96e81bacb000"
+}

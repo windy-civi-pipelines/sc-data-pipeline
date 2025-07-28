@@ -1,0 +1,279 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "H 3907",
+  "title": "Honor our First Responders Act",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY ENACTING THE \"HONOR OUR FIRST RESPONDERS ACT\" BY ADDING SECTION 38-71-300 SO AS TO PROVIDE THAT AN INDIVIDUAL OR GROUP HEALTH PLAN MUST PROVIDE COVERAGE UNDER THE SAME TERMS AND CONDITIONS TO THE SPOUSE OR DEPENDENT OF A FIRST RESPONDER COVERED BY SUCH A PLAN IN CERTAIN CIRCUMSTANCES; BY AMENDING SECTION 1-3-470, RELATING TO LOWERING FLAGS UPON DEATH IN THE LINE OF DUTY, SO AS TO ADD AN EMERGENCY MEDICAL TECHNICIAN; BY ADDING SECTION 12-6-1172 SO AS TO PROVIDE FOR A FIRST RESPONDER RETIREMENT INCOME DEDUCTION; BY AMENDING SECTION 12-6-1170, RELATING TO THE RETIREMENT INCOME TAX DEDUCTION, SO AS TO MAKE A CONFORMING CHANGE; BY AMENDING SECTION 12-37-220, RELATING TO GENERAL EXEMPTION FROM TAXES, SO AS TO PROVIDE THAT A QUALIFIED SURVIVING SPOUSE ALSO MEANS CERTAIN SURVIVING SPOUSES OF EMERGENCY MEDICAL TECHNICIANS; AND BY AMENDING SECTION 59-111-110, RELATING TO WAIVED TUITION, SO AS TO PROVIDE THAT THE CHILDREN OF CERTAIN EMERGENCY MEDICAL TECHNICIANS ALSO QUALIFY FOR CERTAIN WAIVED TUITION."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced and read first time",
+      "date": "2025-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to Committee on Ways and Means",
+      "date": "2025-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Member(s) request name added as sponsor: T.Moore, Montgomery, B.L.Cox, Holman, Wooten, Lawson, Collins, Mitchell, Yow, Wickensimer, Gilliam, Rankin",
+      "date": "2025-02-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Scrivener's error corrected",
+      "date": "2025-03-26",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Member(s) request name added as sponsor: M.M.Smith, Davis, Pope",
+      "date": "2025-04-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "B.J. Cox",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"B.J. Cox\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bannister",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Bannister\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Willis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Willis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pedalino",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Pedalino\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Vaughan",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Vaughan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "T. Moore",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"T. Moore\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Montgomery",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Montgomery\"}",
+      "organization_id": null
+    },
+    {
+      "name": "B.L. Cox",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"B.L. Cox\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Holman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Holman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Wooten",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Wooten\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lawson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Lawson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Collins",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Collins\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mitchell",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Mitchell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Yow",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Yow\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Wickensimer",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Wickensimer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gilliam",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Gilliam\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rankin",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Rankin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M.M. Smith",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"M.M. Smith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Davis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Davis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pope",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Pope\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "02/06/2025",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/3907_20250206.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "03/26/2025",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/3907_20250326.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3907.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3907.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=3907&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "scraped_at": "2025-07-28T18:34:04+00:00",
+  "_id": "70986eb2-6be1-11f0-bf34-96e81bacb000"
+}

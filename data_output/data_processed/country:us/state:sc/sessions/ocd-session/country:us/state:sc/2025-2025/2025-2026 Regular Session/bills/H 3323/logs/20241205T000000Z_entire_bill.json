@@ -1,0 +1,113 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "H 3323",
+  "title": "Telephone Solicitation Act",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY ENACTING THE \"TELEPHONE SOLICITATION ACT\" BY ADDING CHAPTER 31 TO TITLE 37 SO AS TO PROVIDE DEFINITIONS, PROHIBIT CERTAIN TELEPHONIC SALES CALLS, PROHIBIT CERTAIN COMMERCIAL TELEPHONE SELLERS FROM USING CERTAIN TECHNOLOGY, TO PROVIDE A REBUTTABLE PRESUMPTION FOR CERTAIN CALLS MADE TO ANY AREA CODE IN THIS STATE, TO PROHIBIT CERTAIN AUTOMATED DIALING OR RECORDED MESSAGES, TO PROVIDE FOR A CERTAIN TIME FRAME FOR COMMERCIAL CALLS, TO PROVIDE FOR LIMITS ON THE NUMBER OF CALLS, TO PROVIDE FOR EXEMPTIONS, AND TO PROVIDE FOR REMEDIES."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Prefiled",
+      "date": "2024-12-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to Committee on Labor, Commerce and Industry",
+      "date": "2024-12-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Introduced and read first time",
+      "date": "2025-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to Committee on Labor, Commerce and Industry",
+      "date": "2025-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Chumley",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Chumley\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "12/05/2024",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/3323_20241205.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3323.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3323.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=3323&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "scraped_at": "2025-07-28T18:37:46+00:00",
+  "_id": "f48809b2-6be1-11f0-bf34-96e81bacb000"
+}

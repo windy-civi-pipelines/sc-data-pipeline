@@ -1,0 +1,95 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "S 532",
+  "title": "Nuisance Alligator control",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY ADDING SECTION 50-15-550 SO AS TO PROVIDE DEFINITIONS REGARDING THE ISSUANCE OF A SPECIAL PERMIT TO CAPTURE NUISANCE ALLIGATORS; BY ADDING SECTION 50-15-555 SO AS TO REQUIRE THE DEPARTMENT OF NATURAL RESOURCES TO RECEIVE NUISANCE ALLIGATOR COMPLAINTS ON A PRESCRIBED FORM, TO INVESTIGATE AND VERIFY THE COMPLAINT, TO APPROVE REMOVAL OF A NUISANCE ALLIGATOR BY A NUISANCE ALLIGATOR HUNTER WITH A DEPREDATION PERMIT, AND TO REPORT NUISANCE ALLIGATORS TRAPPED, RELOCATED, AND KILLED; AND BY AMENDING SECTION 50-15-500, RELATING TO THE ALLIGATOR MANAGEMENT PROGRAM, SO AS TO MAKE CONFORMING CHANGES."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced and read first time",
+      "date": "2025-04-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to Committee on Fish, Game and Forestry",
+      "date": "2025-04-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hembree",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Hembree\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "04/02/2025",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/532_20250402.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/532.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/532.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=532&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "scraped_at": "2025-07-28T18:25:54+00:00",
+  "_id": "4c617940-6be0-11f0-bf34-96e81bacb000"
+}

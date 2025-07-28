@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Adopted, returned to Senate with concurrence",
+    "date": "2025-04-24",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "S 543"
+}

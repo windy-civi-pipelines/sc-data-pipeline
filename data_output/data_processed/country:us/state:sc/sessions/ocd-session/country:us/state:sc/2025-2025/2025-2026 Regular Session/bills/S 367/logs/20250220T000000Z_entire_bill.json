@@ -1,0 +1,263 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "S 367",
+  "title": "Abandoned Vessels, Derelict Vessels, and Sunken Vessels",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "AN ACT TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY ADDING ARTICLE 2 TO CHAPTER 21, TITLE 50 ENTITLED \"ABANDONED VESSELS, DERELICT VESSELS, AND SUNKEN VESSELS\" SO AS TO PROVIDE THAT ABANDONED VESSELS, DERELICT VESSELS, AND SUNKEN VESSELS ARE PUBLIC NUISANCES; TO DEFINE TERMS; TO ESTABLISH THE PENALTIES FOR A PERSON THAT CAUSES OR ALLOWS A VESSEL TO BECOME AN ABANDONED VESSEL OR A DERELICT VESSEL AND THE PENALTIES FOR INTENTIONALLY OR RECKLESSLY CAUSING A VESSEL TO SINK; TO EXTEND THE CORPORATE LIMITS OF CERTAIN MUNICIPALITIES FOR THE PURPOSE OF ENFORCING THE ARTICLE; TO ESTABLISH THE PROCEDURE FOR DECLARING CERTAIN VESSELS ABANDONED OR DERELICT; TO REQUIRE THE REMOVAL OF A DERELICT VESSEL WITHIN FOURTEEN DAYS AND TO PROVIDE FOR ITS REMOVAL; AND TO REQUIRE THE DEVELOPMENT AND MAINTENANCE OF A WEBSITE AND APPLICATION FOR THE REPORTING OF CERTAIN VESSELS; BY REPEALING SECTION 50-21-190 RELATING TO ABANDONED WATERCRAFT; BY REPEALING SECTION 50-23-205 RELATING TO THE SEIZURE OF CERTAIN WATERCRAFT; AND BY REPEALING SECTION 50-21-10(1) RELATING TO THE DEFINITION OF ABANDON. - RATIFIED TITLE"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced and read first time",
+      "date": "2025-02-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to Committee on Fish, Game and Forestry",
+      "date": "2025-02-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Committee report: Favorable with amendment Fish, Game and Forestry",
+      "date": "2025-03-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Committee Amendment Adopted",
+      "date": "2025-03-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Read second time",
+      "date": "2025-03-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Roll call Ayes-40  Nays-0",
+      "date": "2025-03-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Read third time and sent to House",
+      "date": "2025-03-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Introduced and read first time",
+      "date": "2025-04-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to Committee on Agriculture, Natural Resources and Environmental Affairs",
+      "date": "2025-04-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Committee report: Favorable Agriculture, Natural Resources and Environmental Affairs",
+      "date": "2025-04-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Read second time",
+      "date": "2025-05-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Roll call Yeas-105  Nays-0",
+      "date": "2025-05-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Unanimous consent for third reading on next legislative day",
+      "date": "2025-05-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Read third time and enrolled",
+      "date": "2025-05-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Ratified R 38",
+      "date": "2025-05-06",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Signed By Governor",
+      "date": "2025-05-08",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Effective date 05/08/25",
+      "date": "2025-05-16",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Act No. 22",
+      "date": "2025-05-16",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Campsen",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Campsen\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "02/20/2025",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/367_20250220.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "03/19/2025",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/367_20250319.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "03/25/2025",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/367_20250325.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "04/29/2025",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/367_20250429.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/367.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/367.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=367&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "scraped_at": "2025-07-28T18:26:55+00:00",
+  "_id": "70336ef0-6be0-11f0-bf34-96e81bacb000"
+}

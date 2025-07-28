@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Committee report: Favorable with amendment Agriculture, Natural Resources and Environmental Affairs",
+    "date": "2025-02-26",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "H 3945"
+}

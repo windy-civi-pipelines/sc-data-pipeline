@@ -1,0 +1,149 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "H 3868",
+  "title": "Firearms Criminal Background Checks",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY ADDING ARTICLE 2 TO CHAPTER 31, TITLE 23 SO AS TO REQUIRE NATIONAL INSTANT CRIMINAL BACKGROUND CHECKS BEFORE ANY SALE, EXCHANGE, OR TRANSFER OF FIREARMS IN THIS STATE AND TO PROVIDE PROCEDURES FOR THE BACKGROUND CHECKS; TO REQUIRE NATIONAL INSTANT CRIMINAL BACKGROUND CHECKS AT GUN SHOWS AND TO PROVIDE PROCEDURES FOR THE BACKGROUND CHECKS; AND TO EXEMPT RECORDS KEPT FROM DISCLOSURE AS PUBLIC RECORDS UNDER THE FREEDOM OF INFORMATION ACT AND TO PROVIDE A PENALTY FOR VIOLATIONS OF THE ARTICLE."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced and read first time",
+      "date": "2025-01-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to Committee on Judiciary",
+      "date": "2025-01-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Member(s) request name added as sponsor: Rivers",
+      "date": "2025-02-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Member(s) request name added as sponsor: Bauer",
+      "date": "2025-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "J. Moore",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"J. Moore\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Grant",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Grant\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Garvin",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Garvin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Spann-Wilder",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Spann-Wilder\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rivers",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Rivers\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bauer",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Bauer\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "01/30/2025",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/3868_20250130.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3868.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3868.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=3868&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "scraped_at": "2025-07-28T18:34:42+00:00",
+  "_id": "86bc91e6-6be1-11f0-bf34-96e81bacb000"
+}

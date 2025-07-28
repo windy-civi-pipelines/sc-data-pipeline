@@ -1,0 +1,141 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "S 374",
+  "title": "Deptment of Juvenile Justice",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING SECTION 63-19-360, RELATING TO INSTITUTIONAL SERVICES, SO AS TO PROVIDE THAT THE DEPARTMENT MUST ENTER INTO INTERGOVERNMENTAL AGREEMENTS WITH COUNTIES OR MUNICIPALITIES WHO USE THE DEPARTMENT'S DETENTION SERVICES DETAILING THE PER DIEM COSTS AND INVOICE PROCESS; BY AMENDING SECTION 63-19-1610, RELATING TO EXCLUSIVE CARE AND PAYMENT BY LOCAL GOVERNMENTS FOR USE OF THE FACILITIES, SO AS TO DELETE INCONSISTENT LANGUAGE REGARDING THE PAYMENT OF A FEE OF FIFTY DOLLARS A DAY PER CHILD; AND BY AMENDING SECTION 14-1-208, RELATING TO ADDITIONAL ASSESSMENTS, SO AS TO DELETE INCONSISTENT LANGUAGE REGARDING THE PAYMENT OF A FEE OF TWENTY-FIVE DOLLARS A DAY PER CHILD."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced and read first time",
+      "date": "2025-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to Committee on Corrections and Penology",
+      "date": "2025-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Scrivener's error corrected",
+      "date": "2025-02-26",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Committee report: Favorable Corrections and Penology",
+      "date": "2025-03-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Martin",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Martin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hembree",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Hembree\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "02/25/2025",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/374_20250225.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "02/26/2025",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/374_20250226.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "03/25/2025",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/374_20250325.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/374.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/374.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=374&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "scraped_at": "2025-07-28T18:26:49+00:00",
+  "_id": "6d41a7fc-6be0-11f0-bf34-96e81bacb000"
+}

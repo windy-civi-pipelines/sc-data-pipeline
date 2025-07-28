@@ -1,0 +1,160 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "H 3396",
+  "title": "Primaries",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY ADDING SECTION 7-5-115 SO AS TO, AMONG OTHER THINGS, PROVIDE THAT A PERSON IS NOT ALLOWED TO VOTE IN A PARTISAN PRIMARY ELECTION OR A PARTISAN ADVISORY REFERENDUM UNLESS THE PERSON HAS REGISTERED AS BEING A MEMBER OF THAT PARTY OR IS REGISTERED AS AN INDEPENDENT; BY AMENDING SECTION 7-5-110, RELATING TO THE REQUIREMENT OF REGISTRATION IN ORDER TO VOTE, SO AS TO PROVIDE THAT A PERSON IS NOT ALLOWED TO VOTE IN A PARTISAN PRIMARY ELECTION OR PARTISAN ADVISORY REFERENDUM UNLESS THE PERSON HAS REGISTERED AS BEING A MEMBER OF THAT POLITICAL PARTY OR REGISTERED AS AN INDEPENDENT; BY AMENDING SECTION 7-5-170, RELATING TO THE REQUIREMENTS FOR VOTER REGISTRATION, SO AS TO PROVIDE THE REQUIREMENT OF STATING POLITICAL PARTY AFFILIATION, IF ANY, ON THE FORM AND INCLUDING IT IN THE OATH AND TO REQUIRE THE STATE ELECTION COMMISSION TO ASSIST IN CAPTURING THIS DATA; AND BY AMENDING SECTION 7-9-20, RELATING TO THE QUALIFICATIONS FOR VOTING IN PRIMARY ELECTIONS, SO AS TO INCLUDE, AS A REQUIREMENT, REGISTRATION AS A MEMBER OF THE PARTY OR STATUS AS A REGISTERED INDEPENDENT AND TO PROVIDE A PROCEDURE FOR CHANGING POLITICAL PARTY AFFILIATION OR NONAFFILIATION AFTER A SELECTION HAS BEEN MADE."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Prefiled",
+      "date": "2024-12-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to Committee on Judiciary",
+      "date": "2024-12-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Introduced and read first time",
+      "date": "2025-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to Committee on Judiciary",
+      "date": "2025-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Member(s) request name added as sponsor: White",
+      "date": "2025-01-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Long",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Long\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Magnuson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Magnuson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rankin",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Rankin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "McCravy",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"McCravy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Chumley",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Chumley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "White",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"White\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "12/05/2024",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/3396_20241205.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3396.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3396.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=3396&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "scraped_at": "2025-07-28T18:38:10+00:00",
+  "_id": "0322e01e-6be2-11f0-bf34-96e81bacb000"
+}

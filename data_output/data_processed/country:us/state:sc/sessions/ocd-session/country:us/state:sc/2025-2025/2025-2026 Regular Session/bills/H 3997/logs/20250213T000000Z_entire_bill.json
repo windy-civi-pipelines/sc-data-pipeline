@@ -1,0 +1,119 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "H 3997",
+  "title": "First responders",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING SECTION 12-6-1140, RELATING TO INCOME TAX DEDUCTIONS FOR FIRST RESPONDERS, SO AS TO INCLUDE COUNTY AND MUNICIPAL PUBLIC WORKS EMPLOYEES WHO MAY BE DEPLOYED IN EMERGENCIES; BY AMENDING SECTION 12-37-220, RELATING TO PROPERTY TAX EXEMPTIONS, SO AS TO INCLUDE THE SURVIVING SPOUSES OF COUNTY AND MUNICIPAL PUBLIC WORKS EMPLOYEES KILLED WHILE DEPLOYED IN EMERGENCIES; BY AMENDING SECTION 42-7-90, RELATING TO THE DEFINITION OF \"FIRST RESPONDER\" FOR PURPOSES OF RECEIVING WORKERS' COMPENSATION AWARD PAYMENTS BY THE STATE ACCIDENT FUND, SO AS TO INCLUDE COUNTY AND MUNICIPAL PUBLIC WORKS EMPLOYEES WHO MAY BE DEPLOYED IN EMERGENCIES; AND BY AMENDING SECTION 44-130-20, RELATING TO THE DEFINITION OF \"FIRST RESPONDER\" IN THE SOUTH CAROLINA OVERDOSE PREVENTION ACT, SO AS TO INCLUDE COUNTY AND MUNICIPAL PUBLIC WORKS EMPLOYEES WHO MAY BE DEPLOYED IN EMERGENCIES."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced and read first time",
+      "date": "2025-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to Committee on Ways and Means",
+      "date": "2025-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "B.L. Cox",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"B.L. Cox\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Holman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Holman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M.M. Smith",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"M.M. Smith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Davis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Davis\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "02/13/2025",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/3997_20250213.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3997.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3997.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=3997&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "scraped_at": "2025-07-28T18:33:38+00:00",
+  "_id": "60b135b0-6be1-11f0-bf34-96e81bacb000"
+}

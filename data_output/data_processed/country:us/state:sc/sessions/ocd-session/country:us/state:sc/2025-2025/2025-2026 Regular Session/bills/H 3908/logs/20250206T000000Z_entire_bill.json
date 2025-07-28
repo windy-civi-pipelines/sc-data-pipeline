@@ -1,0 +1,111 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "H 3908",
+  "title": "Multifamily Dwelling Safety Act",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY ENACTING THE \"MULTIFAMILY DWELLING SAFETY ACT\" BY ADDING CHAPTER 12 TO TITLE 40 SO AS TO PROVIDE NECESSARY DEFINITIONS; TO PROVIDE QUALIFICATIONS FOR MULTIFAMILY DWELLING INSPECTORS AND SPECIAL INSPECTORS; TO PROVIDE THE DEPARTMENT OF LABOR, LICENSING AND REGULATION SHALL PROMULGATE REGULATIONS ADOPTING A MULTIFAMILY DWELLING BALCONY CODE TO SET MINIMUM STANDARDS FOR BALCONY RAILINGS THAT ARE PRIMARILY CONSTRUCTED OF WOOD AND ARE LOCATED IN MULTIFAMILY DWELLINGS, AND TO PROVIDE FOR THE APPLICABILITY OF THE CODE; TO REQUIRE THE DEPARTMENT TO PERIODICALLY CONDUCT INSPECTIONS OF SUCH BALCONIES TO ASCERTAIN COMPLIANCE WITH THE CODE; TO PROVIDE THAT THE DEPARTMENT SHALL CHARGE A PROPERTY OWNER A FEE FOR INSPECTIONS MADE TO ENFORCE THE CODE; TO PROVIDE REMEDIES FOR VIOLATIONS; TO PROVIDE THE DEPARTMENT MAY AUTHORIZE WAIVERS OR EXEMPTIONS UNDER THE CODE; AND TO PROVIDE PENALTIES FOR CODE VIOLATIONS."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced and read first time",
+      "date": "2025-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to Committee on Labor, Commerce and Industry",
+      "date": "2025-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Bernstein",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Bernstein\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Davis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Davis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cobb-Hunter",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Cobb-Hunter\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "02/06/2025",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/3908_20250206.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3908.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3908.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=3908&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "scraped_at": "2025-07-28T18:34:05+00:00",
+  "_id": "70c7f1e6-6be1-11f0-bf34-96e81bacb000"
+}

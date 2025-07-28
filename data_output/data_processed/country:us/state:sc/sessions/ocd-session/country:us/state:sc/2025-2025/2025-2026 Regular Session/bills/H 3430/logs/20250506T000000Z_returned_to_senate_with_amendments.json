@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Returned to Senate with amendments",
+    "date": "2025-05-06",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "H 3430"
+}

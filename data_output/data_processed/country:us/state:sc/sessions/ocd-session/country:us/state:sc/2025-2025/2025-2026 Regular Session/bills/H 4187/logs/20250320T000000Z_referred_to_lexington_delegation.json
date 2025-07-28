@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Referred to Lexington Delegation",
+    "date": "2025-03-20",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "H 4187"
+}

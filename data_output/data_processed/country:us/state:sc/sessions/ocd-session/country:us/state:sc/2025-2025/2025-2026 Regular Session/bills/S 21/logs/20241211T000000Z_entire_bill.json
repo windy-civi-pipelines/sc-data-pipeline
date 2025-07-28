@@ -1,0 +1,113 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "S 21",
+  "title": "Juvenile Life Without Parole",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY ADDING SECTION 16-3-15 SO AS TO PROHIBIT THE PENALTY OF LIFE IMPRISONMENT FOR ANY INDIVIDUAL WHO IS UNDER THE AGE OF EIGHTEEN AT THE TIME OF COMMITTING AN OFFENSE AND TO PROVIDE MAXIMUM SENTENCES FOR THOSE INDIVIDUALS WHO COMMITTED AN OFFENSE ENUMERATED IN THIS SECTION AS A MINOR BEFORE THE EFFECTIVE DATE OF THE ACT; BY ADDING SECTION 17-25-35 SO AS TO MAKE CONFORMING CHANGES; BY AMENDING SECTION 17-25-45, RELATING TO LIFE SENTENCES FOR CERTAIN CRIMES, SO AS TO PROVIDE FOR REPRESENTATION BY COUNSEL AND TO PROVIDE FACTORS FOR CONSIDERATION BY THE DEPARTMENT; BY ADDING SECTION 63-19-1690 SO AS TO PROHIBIT THE USE OF RESTRAINTS, ISOLATION, AND ROOM CONFINEMENT FOR JUVENILE OFFENDERS, WITH EXCEPTIONS; BY AMENDING SECTION 16-11-311, RELATING TO FIRST DEGREE BURGLARY, SO AS TO MAKE CONFORMING CHANGES; BY AMENDING SECTION 17-25-20, RELATING TO PUNISHMENT FOR A FELONY WHEN NOT SPECIALLY PROVIDED, SO AS TO PROHIBIT THE USE OF SOLITARY CONFINEMENT FOR A PERSON WHO IS YOUNGER THAN EIGHTEEN; AND BY AMENDING SECTION 24-13-100, RELATING TO THE DEFINITION OF NO PAROLE OFFENSE, SO AS TO MAKE CONFORMING CHANGES."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Prefiled",
+      "date": "2024-12-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to Committee on Judiciary",
+      "date": "2024-12-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Introduced and read first time",
+      "date": "2025-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to Committee on Judiciary",
+      "date": "2025-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hutto",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Hutto\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "12/11/2024",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/21_20241211.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/21.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/21.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=21&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "scraped_at": "2025-07-28T18:29:24+00:00",
+  "_id": "c9566dde-6be0-11f0-bf34-96e81bacb000"
+}

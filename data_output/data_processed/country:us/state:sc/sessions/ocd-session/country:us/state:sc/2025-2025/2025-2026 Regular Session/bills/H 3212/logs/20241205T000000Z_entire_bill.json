@@ -1,0 +1,113 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "H 3212",
+  "title": "Physical activity in schools",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING SECTION 59-1-425, RELATING TO INSTRUCTIONAL DAYS FOR PUBLIC SCHOOL STUDENTS, SO AS TO PROVIDE THE INSTRUCTIONAL DAYS MAY NOT BEGIN BEFORE 8:30 IN THE MORNING; BY AMENDING SECTION 59-10-10, RELATING TO PHYSICAL ACTIVITY STANDARDS FOR PUBLIC ELEMENTARY AND MIDDLE SCHOOLS, SO AS TO REVISE THE STANDARDS TO REQUIRE AN OVERALL INCREASE IN MANDATORY PHYSICAL ACTIVITY MINUTES, TO REQUIRE DAILY PHYSICAL ACTIVITY, TO REQUIRE PHYSICAL ACTIVITY TO INCLUDE INSTRUCTIONAL PLAY AND UNSTRUCTURED PLAY IN ADDITION TO PHYSICAL EDUCATION, AND TO DEFINE NECESSARY TERMS; AND BY AMENDING SECTION 59-10-30, RELATING TO PHYSICAL EDUCATION ACTIVITY DIRECTORS, SO AS TO REQUIRE DESIGNATIONS OF PHYSICAL ACTIVITY DIRECTORS IN MIDDLE SCHOOLS AND TO REVISE DUTIES OF PHYSICAL ACTIVITY DIRECTORS TO INCLUDE DEVELOPMENT OF INSTRUCTIONAL PLAY AND UNSTRUCTURED PLAY FOR ELEMENTARY AND MIDDLE SCHOOL STUDENTS."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Prefiled",
+      "date": "2024-12-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to Committee on Education and Public Works",
+      "date": "2024-12-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Introduced and read first time",
+      "date": "2025-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to Committee on Education and Public Works",
+      "date": "2025-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Collins",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Collins\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "12/05/2024",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/3212_20241205.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3212.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3212.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=3212&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "scraped_at": "2025-07-28T18:39:51+00:00",
+  "_id": "3f2e66dc-6be2-11f0-bf34-96e81bacb000"
+}

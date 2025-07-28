@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Requests for debate-Rep(s). Edgerton, Frank, Magnuson, Cromer, Gilreath, White",
+    "date": "2025-05-06",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "H 4165"
+}

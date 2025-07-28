@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Delegation report: Favorable Charleston Delegation",
+    "date": "2025-02-25",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "H 4014"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Adopted, sent to Senate",
+    "date": "2025-04-01",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "H 4158"
+}

@@ -1,0 +1,95 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "S 252",
+  "title": "Income tax credit for conservation",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING SECTION 12-6-3515, RELATING TO THE STATE INCOME TAX CREDIT FOR CONSERVATION OR A QUALIFIED CONSERVATION CONTRIBUTION OF REAL PROPERTY, SO AS TO PROVIDE THAT THE CREDIT EQUALS TWENTY-FIVE PERCENT OF THE TOTAL VALUE OF THE GIFT RATHER THAN TWENTY-FIVE PERCENT OF THE CHARITABLE DEDUCTION FOR THE GIFT ALLOWED ON THE TAXPAYER'S FEDERAL INCOME TAX RETURN, TO INCREASE THE MAXIMUM ANNUAL CREDIT ALLOWED A TAXPAYER FROM FIFTY-TWO THOUSAND FIVE HUNDRED DOLLARS TO ONE HUNDRED FIFTY THOUSAND DOLLARS, TO ADJUST THE MAXIMUM ANNUAL CREDIT FOR INCREASES IN THE CONSUMER PRICE INDEX, AND TO DELETE OBSOLETE PROVISIONS."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced and read first time",
+      "date": "2025-01-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to Committee on Finance",
+      "date": "2025-01-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Campsen",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Campsen\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "01/21/2025",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/252_20250121.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/252.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/252.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=252&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "scraped_at": "2025-07-28T18:27:40+00:00",
+  "_id": "8b41ee74-6be0-11f0-bf34-96e81bacb000"
+}

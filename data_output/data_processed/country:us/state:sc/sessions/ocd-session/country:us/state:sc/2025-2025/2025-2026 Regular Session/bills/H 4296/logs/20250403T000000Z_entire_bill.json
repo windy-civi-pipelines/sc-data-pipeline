@@ -1,0 +1,258 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "H 4296",
+  "title": "Military Code",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "AN ACT TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING SECTION 25-1-90, RELATING TO SERVICE WITHIN THE STATE OF MILITARY FORCES FROM ANOTHER STATE, SO AS TO REMOVE A REFERENCE TO THE UNITED STATES ARMY; BY AMENDING SECTION 25-1-510, RELATING TO SOUTH CAROLINA NATIONAL GUARD APPOINTMENTS, SO AS TO REMOVE CERTAIN AGE REQUIREMENTS; BY AMENDING SECTION 25-1-1330, RELATING TO ANNUAL SETTLEMENTS FOR FEDERAL AND STATE PROPERTY, SO AS TO REMOVE REFERENCES TO FEDERAL PROPERTY; BY AMENDING SECTION 25-1-1370, RELATING TO ALLOWANCES FOR MAINTENANCE, SO AS TO REMOVE A REQUIREMENT THAT UNITS ARE ENTITLED TO CERTAIN MAINTENANCE FUND ALLOWANCES; BY AMENDING SECTION 42-7-40, RELATING TO APPLICATION TO THE STATE, SO AS TO PROVIDE FOR OTHER PERSONS CALLED INTO ACTIVE MILITARY SERVICE; BY AMENDING SECTION 42-7-65, RELATING TO AVERAGE WEEKLY WAGES DESIGNATED FOR CERTAIN CATEGORIES OF EMPLOYEES, SO AS TO PROVIDE FOR OTHER PERSONS CALLED INTO ACTIVE MILITARY SERVICE; BY AMENDING SECTION 42-7-75, RELATING TO STATE AGENCIES' REQUIREMENT TO PAY WORKERS' COMPENSATION PREMIUMS, SO AS TO PROVIDE THAT THE ADJUTANT GENERAL MAY USE CERTAIN METHODS FOR PAYING WORKERS' COMPENSATION PREMIUMS IN CERTAIN CASES; BY REPEALING SECTION 25-1-360 RELATING TO RULES AND REGULATIONS; BY REPEALING SECTION 25-1-380 RELATING TO THE ASSISTANT ADJUTANT GENERAL FOR ARMY; BY REPEALING SECTION 25-1-390 RELATING TO THE ASSISTANT ADJUTANT GENERAL FOR AIR; BY REPEALING SECTION 25-1-410 RELATING TO AUDITS AND ALLOWANCES OF DEPARTMENT EXPENSES; BY REPEALING SECTION 25-1-560 RELATING TO PUBLICATIONS OF RELATIVE RANK LIST OF OFFICERS; BY REPEALING SECTION 25-1-580 RELATING TO OFFICERS IN COMMAND OF SUBORDINATE OR DETACHED UNITS OR DIFFERENT UNITS ON DUTY TOGETHER; BY REPEALING SECTION 25-1-810 RELATING TO PROMOTIONS UNDER THE FEDERAL PERSONNEL ACT; BY REPEALING SECTION 25-1-830 RELATING TO OFFICER SELECTION BOARDS; BY REPEALING SECTION 25-1-860 RELATING TO VACANCIES IN STAFF OF HEADQUARTERS AND HEADQUARTERS DETACHMENT; BY REPEALING SECTION 25-1-870 RELATING TO VACANCIES IN GRADE OF MAJOR GENERAL; BY REPEALING SECTION 25-1-880 RELATING TO VACANCIES IN GRADE OF BRIGADIER GENERAL; BY REPEALING SECTION 25-1-890 RELATING TO VACANCIES IN GRADE OF COLONEL; BY REPEALING SECTION 25-1-930 RELATING TO VACANCIES IN GRADE OF WARRANT OFFICER; BY REPEALING SECTION 25-1-1350 RELATING TO REQUIREMENTS FOR SHARING IN APPROPRIATIONS; AND BY REPEALING SECTION 25-1-3105 RELATING TO MEMBERS OF THE MILITARY FORCES TO SERVE AT THE PLEASURE OF THE ADJUTANT GENERAL. - RATIFIED TITLE"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced, read first time, placed on calendar without reference",
+      "date": "2025-04-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Scrivener's error corrected",
+      "date": "2025-04-08",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Read second time",
+      "date": "2025-04-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Roll call Yeas-94  Nays-0",
+      "date": "2025-04-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Read third time and sent to Senate",
+      "date": "2025-04-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Introduced and read first time",
+      "date": "2025-04-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to Committee on Family and Veterans' Services",
+      "date": "2025-04-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Recalled from Committee on Family and Veterans' Services",
+      "date": "2025-05-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Read second time",
+      "date": "2025-05-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Read third time and enrolled",
+      "date": "2025-05-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Roll call Ayes-43  Nays-0",
+      "date": "2025-05-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Ratified R 78",
+      "date": "2025-05-08",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Signed By Governor",
+      "date": "2025-05-13",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Effective date 05/13/25",
+      "date": "2025-05-19",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Act No. 55",
+      "date": "2025-05-19",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Mitchell",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Mitchell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gilliam",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Gilliam\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Yow",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Yow\"}",
+      "organization_id": null
+    },
+    {
+      "name": "T. Moore",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"T. Moore\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "04/03/2025",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/4296_20250403.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "04/03/2025-A",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/4296_20250403a.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "04/08/2025",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/4296_20250408.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "05/01/2025",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/4296_20250501.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4296.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4296.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=4296&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "scraped_at": "2025-07-28T18:31:00+00:00",
+  "_id": "027425ca-6be1-11f0-bf34-96e81bacb000"
+}

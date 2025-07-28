@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "House amendment amended",
+    "date": "2025-05-06",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-amendment"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "S 29"
+}

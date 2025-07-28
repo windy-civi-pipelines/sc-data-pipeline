@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Signed By Governor",
+    "date": "2025-05-12",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "H 4026"
+}

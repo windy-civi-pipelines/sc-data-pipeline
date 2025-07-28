@@ -1,0 +1,119 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "S 438",
+  "title": "Joint Bond Review Committee",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING SECTIONS 2-47-30 THROUGH 2-47-52, ALL RELATING TO THE JOINT BOND REVIEW COMMITTEE, SO AS TO CLARIFY THE RESPONSIBILITIES OF THE COMMITTEE, THE STATE FISCAL ACCOUNTABILITY AUTHORITY, AND THE DEPARTMENT OF ADMINISTRATION IN THE ESTABLISHMENT, REVIEW, AND APPROVAL OF PERMANENT IMPROVEMENT PROJECTS, AND TO REFINE CERTAIN REQUIREMENTS, DEFINITIONS, AND EXEMPTIONS FOR THE ESTABLISHMENT, REVIEW, AND APPROVAL THEREOF; BY AMENDING SECTION 2-47-56, RELATING TO THE ACCEPTANCE OF GIFTS-IN-KIND FOR ARCHITECTURAL AND ENGINEERING SERVICES, SO AS TO CLARIFY THAT ONLY GIFTS-IN-KIND ARE EXEMPT FROM THE PROCUREMENT CODE; BY AMENDING SECTION 10-1-180, RELATING TO EXPENDITURE OF FUNDS BY STATE AGENCIES, SO AS TO REMOVE A PROVISION REQUIRING APPROVAL AND TO REQUIRE CERTAIN PROJECTS BE IN COMPLIANCE WITH NATIONALLY RECOGNIZED CODES; AND BY AMENDING SECTION 1-11-185, RELATING TO POWERS OF THE DEPARTMENT OF ADMINISTRATION, SO AS TO DELETE A PROVISION REQUIRING APPROVAL OF CERTAIN PERMANENT IMPROVEMENT PROJECTS."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced and read first time",
+      "date": "2025-03-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to Committee on Finance",
+      "date": "2025-03-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Peeler",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Peeler\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Alexander",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Alexander\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jackson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Jackson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cromer",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Cromer\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "03/11/2025",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/438_20250311.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/438.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/438.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=438&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "scraped_at": "2025-07-28T18:26:29+00:00",
+  "_id": "60fe6c3c-6be0-11f0-bf34-96e81bacb000"
+}

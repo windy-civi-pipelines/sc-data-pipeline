@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Conference committee appointed Johnson, Climer, Williams",
+    "date": "2025-05-08",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "S 127"
+}

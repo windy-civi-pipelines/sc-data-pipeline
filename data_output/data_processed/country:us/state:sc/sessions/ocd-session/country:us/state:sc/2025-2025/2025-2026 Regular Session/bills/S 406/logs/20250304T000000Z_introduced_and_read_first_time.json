@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Introduced and read first time",
+    "date": "2025-03-04",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction",
+      "reading-1"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "S 406"
+}

@@ -1,0 +1,131 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "H 3487",
+  "title": "Department of Insurance governance",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY ADDING SECTION 38-3-105 SO AS TO PROVIDE FOR THE ELECTION OF THE DIRECTOR OF THE DEPARTMENT OF INSURANCE BY THE QUALIFIED ELECTORS OF THE STATE IN THE GENERAL ELECTION AND PROVIDE FOR THE DIRECTOR'S TERM OF OFFICE, QUALIFICATIONS, VACANCY, AND RELATED MATTERS; BY AMENDING SECTION 1-30-10, RELATING TO THE DEPARTMENTS OF STATE GOVERNMENT, SO AS TO PROVIDE THAT THE GOVERNING AUTHORITY OF THE DEPARTMENT OF INSURANCE IS THE DIRECTOR OF THE DEPARTMENT OF INSURANCE ELECTED TO OFFICE UNDER THE LAWS OF THIS STATE; BY AMENDING SECTION 38-1-20, RELATING TO DEFINITIONS UNDER THE INSURANCE LAWS OF THIS STATE, SO AS TO MAKE CERTAIN CHANGES TO THE DEFINITION OF \"DIRECTOR\" OF THE DEPARTMENT OF INSURANCE; BY AMENDING SECTION 38-3-10, RELATING TO THE DEPARTMENT OF INSURANCE, SO AS TO DELETE CERTAIN PROVISIONS RELATING TO THE DEPARTMENT'S DIRECTOR, TO PROVIDE THAT THE DIRECTOR IS ELECTED RATHER THAN APPOINTED, AND TO MAKE CHANGES IN THE PROVISIONS CONCERNING THE REMOVAL OF THE DIRECTOR; BY AMENDING SECTION 38-3-100, RELATING TO THE DIRECTOR OF THE DEPARTMENT OF INSURANCE, SO AS TO AMONG OTHER CHANGES, DELETE THE REQUIREMENT THAT, IF THE DIRECTOR BECOMES A CANDIDATE FOR PUBLIC OFFICE OR BECOMES A MEMBER OF A POLITICAL COMMITTEE DURING TENURE, HIS OFFICE IMMEDIATELY MUST BE VACATED; AND TO PROVIDE THAT THE ELECTION OF THE DIRECTOR OF THE DEPARTMENT OF INSURANCE BEGINS WITH THE 2028 STATEWIDE ELECTION PROCESS AND THAT THE DIRECTOR SERVING ON THE EFFECTIVE DATE OF THIS ACT SHALL CONTINUE TO SERVE UNTIL HIS SUCCESSOR IS ELECTED AND QUALIFIES FOR OFFICE."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Prefiled",
+      "date": "2024-12-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to Committee on Judiciary",
+      "date": "2024-12-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Introduced and read first time",
+      "date": "2025-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to Committee on Judiciary",
+      "date": "2025-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Scrivener's error corrected",
+      "date": "2025-02-07",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Stavrinakis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Stavrinakis\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "12/05/2024",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/3487_20241205.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "02/07/2025",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/3487_20250207.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3487.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3487.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=3487&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "scraped_at": "2025-07-28T18:39:54+00:00",
+  "_id": "4102f176-6be2-11f0-bf34-96e81bacb000"
+}

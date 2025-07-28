@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Requests for debate-Rep(s). B Newton, Martin, BL Cox, Collins, Bowers, Jordan, Guest, Hager, Whitmire",
+    "date": "2025-03-26",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "H 3127"
+}

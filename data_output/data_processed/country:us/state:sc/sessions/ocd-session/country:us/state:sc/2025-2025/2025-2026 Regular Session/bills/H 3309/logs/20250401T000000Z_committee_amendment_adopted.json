@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Committee Amendment Adopted",
+    "date": "2025-04-01",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "H 3309"
+}

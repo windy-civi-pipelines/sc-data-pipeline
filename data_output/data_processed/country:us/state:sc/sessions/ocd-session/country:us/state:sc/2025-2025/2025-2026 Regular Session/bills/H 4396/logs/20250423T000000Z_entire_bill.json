@@ -1,0 +1,103 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "H 4396",
+  "title": "Solicitation of charitable funds",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING SECTION 33-56-50, RELATING TO ORGANIZATIONS EXEMPT FROM REGISTRATION PROVISIONS, SO AS TO INCREASE THRESHOLDS FOR CHARITIES REQUESTING EXEMPTIONS; BY AMENDING SECTION 33-56-70, RELATING TO CONTRACTS WITH PROFESSIONAL SOLICITORS, SO AS TO LIMIT FILING REQUIREMENTS TO COMMERCIAL CO-VENTURERS, UNDER CERTAIN CONDITIONS; BY AMENDING SECTION 33-56-90, RELATING TO REQUIRED DISCLOSURES, SO AS TO REQUIRE ANY ENTITY THAT IS SOLICITING FOR CHARITABLE ORGANIZATIONS TO DISCLOSE THE LEGAL NAME AND PURPOSE OF THE CHARITY FOR WHICH THEY ARE SOLICITING; BY AMENDING SECTION 33-56-110, RELATING TO REGISTRATION OF PROFESSIONAL SOLICITORS, FUND-RAISING COUNSELS, OR COMMERCIAL CO-VENTURERS, SO AS TO LIMIT REGISTRATION REQUIREMENTS FOR COMMERCIAL CO-VENTURERS SOLICITING MORE THAN TEN THOUSAND DOLLARS IN A SINGLE SOLICITATION CAMPAIGN; AND BY AMENDING SECTION 33-56-120, RELATING TO MISREPRESENTATIONS, SO AS TO PROHIBIT COMMERCIAL CO-VENTURERS FROM USING REGISTRATION WITH THE SECRETARY OF STATE AS AN ENDORSEMENT BY THE STATE."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced and read first time",
+      "date": "2025-04-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to Committee on Judiciary",
+      "date": "2025-04-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Wetmore",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Wetmore\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Wooten",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Wooten\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "04/23/2025",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/4396_20250423.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4396.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4396.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=4396&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "scraped_at": "2025-07-28T18:30:31+00:00",
+  "_id": "f115fda8-6be0-11f0-bf34-96e81bacb000"
+}

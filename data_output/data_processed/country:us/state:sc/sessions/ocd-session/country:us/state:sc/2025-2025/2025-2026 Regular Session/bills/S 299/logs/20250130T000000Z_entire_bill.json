@@ -1,0 +1,103 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "S 299",
+  "title": "Law Enforcement",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING SECTION 44-17-410, RELATING TO EMERGENCY ADMISSION TO A PUBLIC OR PRIVATE HOSPITAL, MENTAL HEALTH CLINIC, OR MENTAL HEALTH FACILITY OF A PERSON LIKELY TO CAUSE SERIOUS HARM TO HIMSELF OR OTHERS, SO AS TO EXTEND THE TIME THE REQUIRED CERTIFICATE IS VALID IF SAFE TRANSPORT IS UNAVAILABLE DUE TO A NATURAL DISASTER OR SOME OTHER LIFE-THREATENING CONDITION; AND BY AMENDING SECTION 44-17-440, RELATING TO THE CUSTODY AND TRANSPORT OF A PERSON REQUIRING IMMEDIATE CARE, SO AS TO EXTEND THE TIME THE REQUIRED CERTIFICATE IS VALID IF SAFE TRANSPORT IS UNAVAILABLE DUE TO A NATURAL DISASTER OR SOME OTHER LIFE-THREATENING CONDITION, TO PROVIDE FOR THE CIRCUMSTANCES UNDER WHICH A FRIEND OR RELATIVE MAY TRANSPORT A MENTALLY ILL PATIENT, AND TO PROVIDE FOR CIVIL IMMUNITY UNDER CERTAIN CIRCUMSTANCES."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced and read first time",
+      "date": "2025-01-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to Committee on Medical Affairs",
+      "date": "2025-01-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Gambrell",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Gambrell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Verdin",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Verdin\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "01/30/2025",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/299_20250130.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/299.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/299.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=299&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "scraped_at": "2025-07-28T18:27:21+00:00",
+  "_id": "80358fa4-6be0-11f0-bf34-96e81bacb000"
+}

@@ -1,0 +1,131 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "H 3658",
+  "title": "Department of Consumer Affairs",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING SECTION 32-7-20, RELATING TO PRENEED FUNERAL CONTRACTS, SO AS TO REQUIRE THE INCLUSION IN SUCH CONTRACTS OF THE TOLL-FREE TELEPHONE NUMBER AND WEBSITE FOR THE DEPARTMENT OF CONSUMER AFFAIRS, AND A STATEMENT THAT QUESTIONS OR COMPLAINTS MAY BE DIRECTED TO THE DEPARTMENT; BY AMENDING SECTION 37-2-305, RELATING TO CERTAIN CREDITORS FILING AND POSTING MAXIMUM RATE SCHEDULES, SO AS TO REQUIRE SUCH FILINGS TO INCLUDE THIS SAME LANGUAGE; BY AMENDING SECTION 37-2-307, RELATING TO MOTOR VEHICLE SALES CONTRACTS CLOSING FEES, SO AS TO REQUIRE DEALERS TO INCLUDE SUCH LANGUAGE IN A NOTICE TO CONSUMERS; BY AMENDING SECTION 37-3-305, RELATING TO CERTAIN CREDITORS FILING AND POSTING MAXIMUM RATE SCHEDULES, SO AS TO REQUIRE SUCH FILINGS TO INCLUDE THIS LANGUAGE; BY AMENDING SECTION 37-6-202, RELATING TO NOTIFICATION FILING REQUIREMENTS APPLICABLE TO CERTAIN CONSUMER CREDIT TRANSACTIONS, SO AS TO REQUIRE SUCH FILINGS TO INCLUDE THIS LANGUAGE; BY AMENDING SECTION 37-6-204, RELATING TO NOTIFICATION FILING REQUIREMENTS FOR PERSONS MAKING CONSUMER RENTAL-PURCHASE TRANSACTIONS, SO AS TO REQUIRE SUCH FILINGS TO INCLUDE THIS LANGUAGE; BY AMENDING SECTION 37-11-35, RELATING TO CONTINUING CARE RETIREMENT COMMUNITY CONTRACTS AND AGREEMENTS, SO AS TO REQUIRE THE INCLUSION OF SIMILAR LANGUAGE IN THESE AGREEMENTS; BY AMENDING SECTION 37-16-50, RELATING TO CONTRACTS FOR PREPAID LEGAL SERVICES, SO AS TO REQUIRE THE INCLUSION OF SIMILAR LANGUAGE; BY AMENDING SECTION 37-17-52, RELATING TO INFORMATION PROVIDED TO APPLICANTS BY A DISCOUNT MEDICAL PLAN ORGANIZATION, SO AS TO REQUIRE THE INCLUSION OF SIMILAR LANGUAGE; BY AMENDING SECTION 39-61-110, RELATING TO REQUIREMENTS OF SERVICE CONTRACTS, SO AS TO INCLUDE SIMILAR LANGUAGE; BY AMENDING SECTION 40-39-80, RELATING TO PAWN TICKETS AND THE CONTENT REQUIREMENTS THEREOF, SO AS TO INCLUDE SIMILAR LANGUAGE; BY AMENDING SECTION 44-79-30, RELATING TO CREDIT CONTRACT REQUIREMENTS, SO AS TO INCLUDE SIMILAR LANGUAGE; AND BY AMENDING SECTION 59-102-100, RELATING TO AGENCY CONTRACTS FOR STUDENT ATHLETES, SO AS TO INCLUDE SIMILAR LANGUAGE."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Prefiled",
+      "date": "2024-12-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to Committee on Labor, Commerce and Industry",
+      "date": "2024-12-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Introduced and read first time",
+      "date": "2025-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to Committee on Labor, Commerce and Industry",
+      "date": "2025-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Scrivener's error corrected",
+      "date": "2025-02-05",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Guest",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Guest\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "12/12/2024",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/3658_20241212.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "02/05/2025",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/3658_20250205.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3658.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3658.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=3658&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "scraped_at": "2025-07-28T18:39:47+00:00",
+  "_id": "3cdbed00-6be2-11f0-bf34-96e81bacb000"
+}

@@ -1,0 +1,95 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "S 429",
+  "title": "Private Providers",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY ADDING ARTICLE 5 TO CHAPTER 10, TITLE 59 SO AS TO AUTHORIZE EVALUATORS TO EVALUATE PUBLIC SCHOOL STUDENTS FOR HEALTH, BEHAVIORAL HEALTH, OR THERAPEUTIC NEEDS, TO AUTHORIZE PRIVATE PROVIDERS TO PROVIDE RELATED SERVICES AT SCHOOLS DURING THE SCHOOL DAY, TO SPECIFY THESE EVALUATIONS AND SERVICES ONLY MAY OCCUR UPON REQUEST OF THE PARENT OR GUARDIAN OF THE STUDENT, TO PROVIDE SCHOOL DISTRICTS MAY NOT PROHIBIT SUCH EVALUATIONS OR SERVICES IN SCHOOLS DURING THE SCHOOL DAY, TO PROVIDE THE STATE DEPARTMENT OF EDUCATION SHALL ADOPT A RELATED MODEL POLICY, TO PROVIDE REQUIREMENTS FOR THE MODEL POLICY, TO PROVIDE SCHOOL DISTRICTS SHALL ADOPT RELATED POLICIES, AND TO DEFINE NECESSARY TERMS."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced and read first time",
+      "date": "2025-03-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to Committee on Education",
+      "date": "2025-03-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hutto",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Hutto\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "03/06/2025",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/429_20250306.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/429.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/429.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=429&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "scraped_at": "2025-07-28T18:26:31+00:00",
+  "_id": "627d8a8e-6be0-11f0-bf34-96e81bacb000"
+}

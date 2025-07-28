@@ -1,0 +1,416 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "H 3849",
+  "title": "Tort Reform",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING SECTION 15-38-15, RELATING TO THE APPORTIONMENT OF PERCENTAGES OF FAULT AND ALCOHOLIC BEVERAGE OR DRUG EXCEPTIONS, SO AS TO PROVIDE THAT A JURY OR THE COURT SHALL DETERMINE THE PERCENTAGE OF FAULT OF THE CLAIMANT, THE DEFENDANT, AND OF ANY NONPARTY WHOSE ACT OR OMISSION WAS A PROXIMATE CAUSE OF THE CLAIMANT'S ALLEGED DAMAGES; BY REPEALING SECTION 15-38-20 RELATING TO RIGHT OF CONTRIBUTION; BY REPEALING SECTION 15-38-30 RELATING TO FACTORS DETERMINING PRO RATA LIABILITY OF TORTFEASORS; BY REPEALING SECTION 15-38-40 RELATING TO ACTIONS FOR CONTRIBUTION; BY ADDING SECTION 15-3-710 SO AS TO DEFINE NECESSARY TERMS; BY ADDING SECTION 15-3-720 SO AS TO PROVIDE THAT AN INDIVIDUAL IS PROHIBITED FROM RECOVERING DAMAGES IF THE INDIVIDUAL KNOWINGLY RIDES AS A PASSENGER IN A VEHICLE OPERATED BY A DRIVER WHO IS VISIBLY INTOXICATED OR WHOM THE INDIVIDUAL KNEW OR SHOULD HAVE KNOWN WOULD BECOME INTOXICATED; BY ADDING SECTION 15-3-730 SO AS TO PROVIDE THAT THE CLERK OF COURT SHALL FORWARD A COPY OF THE COMPLAINT AND JUDGMENT TO THE DEPARTMENT OF REVENUE UPON ENTERING JUDGMENT AGAINST A LICENSEE; BY AMENDING SECTION 61-4-580, RELATING TO PROHIBITED ACTS, SO AS TO PROVIDE FOR CIVIL LIABILITY; BY AMENDING SECTION 61-4-590, RELATING TO REVOCATION OR SUSPENSION OF PERMITS AND DEPARTMENT INVESTIGATIONS AND DETERMINATIONS, SO AS TO PROVIDE THAT THE DEPARTMENT MAY REVOKE OR SUSPEND A PERMIT ON ITS OWN INITIATIVE UPON RECEIPT OF A COMPLAINT AND JUDGMENT; BY ADDING CHAPTER 3 TO TITLE 61 SO AS TO DEFINE NECESSARY TERMS; TO PROVIDE REQUIREMENTS FOR SERVER AND MANAGER TRAINING; TO PROVIDE FOR THE CREATION OF AND APPROVAL OF TRAINING PROGRAMS; TO PROVIDE FOR THE ISSUANCE OF ALCOHOL SERVER CERTIFICATES; TO PROVIDE FOR THE RENEWAL OF A PERMIT OR LICENSE; TO PROVIDE FOR THE ENFORCEMENT OF RELEVANT PROVISIONS; AND TO PROVIDE PENALTIES; BY AMENDING SECTION 61-2-60, RELATING TO THE PROMULGATION OF REGULATIONS, SO AS TO PROVIDE FOR THE DEVELOPMENT, IMPLEMENTATION, EDUCATION, AND ENFORCEMENT OF RESPONSIBLE ALCOHOL SERVER TRAINING PROVISIONS; BY AMENDING SECTION 61-6-2220, RELATING TO SALES TO INTOXICATED PERSONS, SO AS TO PROVIDE THAT A PERSON OR ESTABLISHMENT LICENSED TO SELL ALCOHOLIC LIQUORS OR LIQUOR BY THE DRINK PURSUANT TO THIS ARTICLE MAY NOT KNOWINGLY PROVIDE THESE BEVERAGES TO AN INTOXICATED PERSON; BY AMENDING SECTION 38-90-20, RELATING TO LICENSING, REQUIRED INFORMATION AND DOCUMENTATION, FEES, AND RENEWAL, SO AS TO INCLUDE LIQUOR LIABILITY INSURANCE; BY AMENDING SECTION 61-2-145, RELATING TO THE REQUIREMENT OF LIABILITY INSURANCE COVERAGE, SO AS TO PROVIDE LIMITS; BY AMENDING SECTION 61-2-145, RELATING TO THE REQUIREMENT OF LIABILITY INSURANCE COVERAGE, SO AS TO PROVIDE THAT AN INSURER SHALL NOTIFY THE DEPARTMENT IF A PERSON LICENSED TO SELL ALCOHOLIC BEVERAGES FOR ON-PREMISES CONSUMPTION EXCEEDS ITS AGGREGATE LIMIT PRIOR TO THE EXPIRATION OF THE POLICY; BY AMENDING SECTION 15-3-670, RELATING TO CIRCUMSTANCES IN WHICH LIMITATIONS PROVIDED BY SECTIONS 15-3-640 THROUGH 15-3-660 ARE NOT AVAILABLE AS A DEFENSE, SO AS TO PROVIDE THAT A VIOLATION IS CONSIDERED MATERIAL ONLY IF IT EXISTS WITHIN A COMPLETED BUILDING, STRUCTURE, OR FACILITY WHICH HAS RESULTED IN PHYSICAL HARM TO A PERSON OR SIGNIFICANT DAMAGE TO THE PERFORMANCE OF A BUILDING OR ITS SYSTEMS; BY AMENDING SECTION 56-5-6540, RELATING TO PENALTIES, SO AS TO PROVIDE THAT A VIOLATION IS ADMISSIBLE AS EVIDENCE OF COMPARATIVE NEGLIGENCE; BY ADDING SECTION 15-7-65 SO AS TO PROVIDE THAT A CIVIL ACTION TRIED AGAINST AN UNKNOWN DEFENDANT MUST BE TRIED IN THE COUNTY WHERE THE CAUSE OF ACTION AROSE; BY AMENDING SECTION 38-77-150, RELATING TO UNINSURED MOTORIST PROVISIONS, SO AS TO PROVIDE THAT THE UNINSURED MOTORIST PROVISION IS NOT REQUIRED TO INCLUDE COVERAGE FOR PUNITIVE OR EXEMPLARY DAMAGES; BY AMENDING SECTION 38-77-160, RELATING TO ADDITIONAL UNINSURED MOTORIST COVERAGE, SO AS TO PROVIDE THAT AUTOMOBILE INSURANCE CARRIERS ARE NOT REQUIRED TO INCLUDE COVERAGE FOR PUNITIVE OR EXEMPLARY DAMAGES IN THE MANDATORY OFFER OF UNDERINSURED MOTORISTS COVERAGE; BY AMENDING SECTION 15-78-30, RELATING TO DEFINITIONS, SO AS TO DEFINE \"OCCURRENCE\"; BY AMENDING SECTION 15-32-220, RELATING TO NONECONOMIC DAMAGE LIMITS AND EXCEPTIONS, SO AS TO PROVIDE GUIDELINES FOR INTENT TO HARM, FELONY CONVICTIONS, AND INFLUENCE OF ALCOHOL AND OTHER DRUGS; AND BY ADDING SECTION 38-59-23 SO AS TO PROVIDE FOR ACTIONS FOR BAD FAITH INVOLVING A LIABILITY."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced and read first time",
+      "date": "2025-01-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to Committee on Judiciary",
+      "date": "2025-01-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Member(s) request name added as sponsor: Hardee",
+      "date": "2025-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Member(s) request name added as sponsor: Kilmartin",
+      "date": "2025-02-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Member(s) request name added as sponsor: Terribile",
+      "date": "2025-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Member(s) request name removed as sponsor: Yow",
+      "date": "2025-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Member(s) request name removed as sponsor: Calhoon",
+      "date": "2025-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Member(s) request name removed as sponsor: Cobb-Hunter",
+      "date": "2025-02-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Member(s) request name added as sponsor: Schuessler",
+      "date": "2025-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "M.M. Smith",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"M.M. Smith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hager",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Hager\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Oremus",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Oremus\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kirby",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kirby\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Teeple",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Teeple\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bailey",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Bailey\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gilliam",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Gilliam\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Herbkersman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Herbkersman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Davis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Davis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hartnett",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Hartnett\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Holman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Holman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hewitt",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Hewitt\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Taylor",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Taylor\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Wooten",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Wooten\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Chapman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Chapman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lawson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Lawson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Guffey",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Guffey\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pedalino",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Pedalino\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Erickson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Erickson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Reese",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Reese\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Willis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Willis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Vaughan",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Vaughan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Landing",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Landing\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bustos",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Bustos\"}",
+      "organization_id": null
+    },
+    {
+      "name": "B.L. Cox",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"B.L. Cox\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Forrest",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Forrest\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gagnon",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Gagnon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Haddon",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Haddon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hiott",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Hiott\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J.L. Johnson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"J.L. Johnson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Neese",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Neese\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hardee",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Hardee\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kilmartin",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kilmartin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Terribile",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Terribile\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Schuessler",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Schuessler\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "01/30/2025",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/3849_20250130.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3849.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3849.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=3849&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "scraped_at": "2025-07-28T18:34:34+00:00",
+  "_id": "825cfbf4-6be1-11f0-bf34-96e81bacb000"
+}

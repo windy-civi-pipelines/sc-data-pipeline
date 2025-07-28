@@ -1,0 +1,129 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "S 323",
+  "title": "Unborn Child Protection Act",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS SO AS TO ENACT THE \"UNBORN CHILD PROTECTION ACT\"; BY AMENDING SECTION 44-41-610, RELATING TO DEFINITIONS RELATED TO ABORTIONS, SO AS TO ADD A DEFINITION FOR ABORTIFACIENT, TO ADD A DEFINITION FOR CONTRACEPTION, TO AMEND THE DEFINITION OF CONTRACEPTIVE, TO DELETE THE DEFINITIONS OF FATAL FETAL ANOMALY AND FETAL HEARTBEAT, TO ADD A DEFINITION FOR FERTILIZATION, TO DELETE THE DEFINITION OF GESTATIONAL SAC, TO ADD A DEFINITION FOR HUMAN EMBRYO, TO AMEND THE DEFINITION OF PREGNANT, TO ADD A DEFINITION FOR PREGNANT MINOR, AND TO DELETE THE DEFINITION OF RAPE; BY AMENDING SECTION 44-41-620, RELATING TO VOLUNTARY AND INFORMED WRITTEN CONSENT REQUIRED FOR AN ABORTION, SO AS TO MAKE A TECHNICAL AMENDMENT; BY AMENDING SECTION 44-41-630, RELATING TO THE REQUIREMENT FOR AN OBSTETRIC ULTRASOUND PRIOR TO AN ABORTION, SO AS TO REMOVE THE REQUIREMENT THAT AN ABORTION CANNOT BE PERFORMED IF A FETAL HEARTBEAT IS DETECTED; BY AMENDING SECTION 44-41-640, RELATING TO THE EXCEPTION TO THE PROHIBITION ON ABORTIONS WHEN A MEDICAL EMERGENCY EXISTS, SO AS TO MAKE TECHNICAL AMENDMENTS AND TO PROVIDE FOR PROCEDURES RELATED TO NON-EMERGENCY PREMATURE DELIVERIES AFTER NINETEEN WEEKS OF PREGNANCY; BY AMENDING SECTION 44-41-650, RELATING TO EXCEPTIONS TO PROHIBITION ON ABORTIONS FOR RAPE AND INCEST, SO AS TO DELETE THE RAPE AND INCEST EXCEPTIONS AND AMEND THE STATUTE TO PROVIDE FOR DOCUMENTATION REQUIRED OF DOCTORS WHO PERFORM A LEGAL MEDICAL PROCEDURE OR TREATMENT THAT RESULTS IN THE ACCIDENTAL OR UNINTENTIONAL DEATH OF AN UNBORN CHILD, TO PROVIDE FOR THE TRANSMISSION OF THAT INFORMATION TO THE DEPARTMENT OF PUBLIC HEALTH, TO PROVIDE PENALTIES, AND TO PROVIDE FOR A REPORT BY THE DEPARTMENT OF PUBLIC HEALTH; BY AMENDING SECTION 44-41-660, RELATING TO THE EXCEPTION FROM ABORTION PROHIBITION FOR FATAL FETAL ANOMALY, SO AS TO DELETE THE EXCEPTION FOR FATAL FETAL ANOMALY, TO PROVIDE THAT THE ATTORNEY GENERAL AND SOLICITORS HAVE THE CONCURRENT AUTHORITY TO PROSECUTE CRIMINAL VIOLATIONS OF THIS ACT, TO PROVIDE FOR A PRIVATE RIGHT OF CIVIL ACTION, TO PROVIDE FOR RELIEF AVAILABLE IN A CIVIL ACTION, AND TO PROVIDE FOR LIMITATIONS ON WHO MAY BRING A CIVIL ACTION; BY AMENDING SECTION 44-41-670, RELATING TO THE PROHIBITION OF CRIMINAL PROSECUTION OF A PREGNANT  WOMAN WHO GETS AN ABORTION, SO AS TO DELETE THE PROHIBITION ON PROSECUTION, AND TO AMEND THE STATUTE TO PROVIDE FOR LICENSE SUSPENSION AND REVOCATION FOR DOCTORS WHO VIOLATE THE PROHIBITION ON ABORTIONS; BY AMENDING SECTION 44-41-680, RELATING TO CIVIL ACTIONS ARISING FROM ILLEGAL ABORTIONS, SO AS TO DELETE THE CIVIL ACTION PROVISIONS, AND TO ESTABLISH A RICO STATUTE RELATED TO PROHIBITED ABORTION ACTIVITIES, AND TO DEFINE RELEVANT TERMS; BY AMENDING SECTION 44-41-690, RELATING TO A PHYSICIAN'S UNPROFESSIONAL CONDUCT AND  REVOCATION OF PHYSICIAN'S LICENSE, SO AS TO DELETE THE PROVISIONS RELATED TO A PHYSICIAN'S UNPROFESSIONAL CONDUCT AND LICENSE REVOCATION, TO AMEND THE SECTION TO PROVIDE THAT THIS ARTICLE MAY NOT BE CONSTRUED TO IMPOSE LIABILITY OR CONDUCT PROTECTED BY THE FIRST AMENDMENT TO THE UNITED STATES CONSTITUTION OR BY THE SOUTH CAROLINA CONSTITUTION; BY AMENDING RESERVED SECTIONS 44-41-700 AND 44-41-710, SO AS TO PROVIDE THAT THIS ARTICLE MAY NOT BE CONSTRUED TO IMPOSE LIABILITY OR CONDUCT PROTECTED BY THE FIRST AMENDMENT TO THE UNITED STATES CONSTITUTION OR BY THE SOUTH CAROLINA CONSTITUTION AND TO PROVIDE THAT THE PRESIDENT OF THE SENATE AND THE SPEAKER OF THE HOUSE OF REPRESENTATIVES HAVE AN UNCONDITIONAL RIGHT TO INTERVENE ON BEHALF OF THEIR RESPECTIVE BODIES IN A STATE COURT ACTION, AND BY AMENDING RESERVED SECTIONS 44-41-720, 44-41-730, AND 44-41-740, SO AS TO REPEAL THESE SECTIONS; BY ADDING SECTION 15-51-15 SO AS TO CREATE A WRONGFUL DEATH ACTION ON BEHALF OF AN ABORTED UNBORN CHILD, AND TO PLACE LIMITATIONS ON WHO MAY BRING THE ACTION; BY ADDING SECTION 59-32-30 SO AS TO PROVIDE FOR CERTAIN ADDITIONAL INSTRUCTION ON HUMAN GROWTH AND DEVELOPMENT TAUGHT IN THE STATE'S SCHOOLS; BY AMENDING SECTION 44-41-37, RELATING TO THE DISCLOSURE OF CONSENT REQUIREMENTS WHEN COUNSELING OR DISCUSSING ABORTION WITH A MINOR, SO AS TO DELETE THE AUTHORITY OF A PHYSICIAN OR COUNSELOR TO DISCUSS THE COURT BYPASS FOR ABORTION APPROVALS DUE TO THE REPEAL OF THE COURT BYPASS STATUTES; BY AMENDING SECTION 44-41-90, RELATING TO STATE FUNDING FOR ABORTIONS, SO AS TO DELETE REFERENCES TO THE COURT BYPASS FOR MINORS TO OBTAIN AN ABORTION; BY AMENDING SECTION 44-41-60, RELATING TO ABORTIONS THAT MUST BE REPORTED, SO AS TO PROVIDE PENALTIES FOR PHYSICIANS WHO FAIL TO PROPERLY REPORT ABORTIONS, AND TO PROVIDE FOR A REPORT FROM THE DEPARTMENT OF PUBLIC HEALTH; AND TO PROVIDE THAT SECTIONS 44-41-32, 44-41-33, AND 44-41-34, RELATING TO THE JUDICIAL BYPASS FOR MINORS OBTAINING AN ABORTION, ARE REPEALED."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced and read first time",
+      "date": "2025-02-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to Committee on Medical Affairs",
+      "date": "2025-02-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Scrivener's error corrected",
+      "date": "2025-02-12",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Cash",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Cash\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rice",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Rice\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Garrett",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Garrett\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "02/06/2025",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/323_20250206.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "02/12/2025",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/323_20250212.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/323.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/323.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=323&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "scraped_at": "2025-07-28T18:27:11+00:00",
+  "_id": "7a29b630-6be0-11f0-bf34-96e81bacb000"
+}

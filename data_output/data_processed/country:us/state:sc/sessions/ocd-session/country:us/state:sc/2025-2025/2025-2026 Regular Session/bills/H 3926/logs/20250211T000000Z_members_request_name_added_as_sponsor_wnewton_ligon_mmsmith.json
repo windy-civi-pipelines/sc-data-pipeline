@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Member(s) request name added as sponsor: W.Newton, Ligon, M.M.Smith",
+    "date": "2025-02-11",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "H 3926"
+}

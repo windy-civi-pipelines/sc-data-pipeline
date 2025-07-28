@@ -1,0 +1,149 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "S 36",
+  "title": "Polling Locations",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING SECTION 7-7-10, RELATING TO VOTING PRECINCTS, SO AS TO REQUIRE THE POLLING PLACES FOR THE VOTING PRECINCTS TO BE ESTABLISHED BY THE COUNTY BOARDS OF VOTER REGISTRATION AND ELECTIONS IN ACCORDANCE WITH CERTAIN CRITERIA; BY AMENDING SECTION 7-7-710, RELATING TO A REPORT BY THE STATE ELECTION COMMISSION OF POLLING PRECINCTS WITH GREATER THAN ONE THOUSAND FIVE HUNDRED REGISTERED ELECTORS, SO AS TO REVISE THE PRECINCTS THAT MUST BE LISTED IN THE REPORT; BY AMENDING SECTION 7-7-720, RELATING TO THE NOTICE TO PERSONS WHOSE REGISTRATION IS TRANSFERRED, SO AS TO CONFORM THE SECTION TO AMENDMENTS TO SECTION 7-7-710; BY AMENDING SECTION 7-7-910, RELATING TO ALTERNATIVE POLLING PLACES, SO AS TO REVISE THE NOTIFICATION PROCEDURES WHEN AN ALTERNATIVE POLLING PLACE IS SELECTED; BY AMENDING SECTION 7-7-920, RELATING TO PLACES WHERE ELECTORS SHALL VOTE IN MUNICIPAL ELECTIONS, SO AS TO AUTHORIZE A CITY OR TOWN WITH A POPULATION UNDER THREE THOUSAND TO VOTE AT ONE POLLING PLACE IN MUNICIPAL ELECTIONS; BY AMENDING SECTION 7-7-1000, RELATING TO POLLING PRECINCTS IN MUNICIPAL ELECTIONS, SO AS TO PROVIDE THE SECTION ONLY APPLIES TO ELECTIONS CONDUCTED BY MUNICIPAL ELECTION COMMISSIONS; AND BY REPEALING SECTION 7-7-730, RELATING TO THE DIVISION OF PRECINCTS HAVING MORE THAN 750 ELECTORS."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Prefiled",
+      "date": "2024-12-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to Committee on Judiciary",
+      "date": "2024-12-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Introduced and read first time",
+      "date": "2025-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to Committee on Judiciary",
+      "date": "2025-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Scrivener's error corrected",
+      "date": "2025-01-15",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to Subcommittee: Campsen (ch), Johnson, Kimbrell, Devine, Blackmon, Sutton, Zell",
+      "date": "2025-01-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Campsen",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Campsen\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "12/11/2024",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/36_20241211.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "12/11/2024-A",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/36_20241211a.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "01/15/2025",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/36_20250115.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/36.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/36.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=36&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "scraped_at": "2025-07-28T18:28:15+00:00",
+  "_id": "a0284fa4-6be0-11f0-bf34-96e81bacb000"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Committee report: Favorable Education and Public Works",
+    "date": "2025-04-02",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "H 3801"
+}

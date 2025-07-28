@@ -1,0 +1,199 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "S 54",
+  "title": "Medical Informed Consent",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS SO AS TO ENACT THE \"MEDICAL INFORMED CONSENT ACT\"; BY ADDING SECTION 16-17-780 SO AS TO PROVIDE THAT IT IS UNLAWFUL FOR ANY PERSON, CORPORATION, HIGHER LEARNING INSTITUTION, OR THE STATE TO IMPLEMENT A VACCINE MANDATE AND TO PROVIDE PENALTIES; BY ADDING SECTION 41-1-55 SO AS TO PROHIBIT EMPLOYERS FROM TAKING ADVERSE ACTION AGAINST INDIVIDUALS WHO DECLINE TO RECEIVE A VACCINE AND TO PROVIDE PENALTIES; BY AMENDING SECTION 40-43-86, RELATING TO FACILITY REQUIREMENTS FOR PHARMACIES AND PRESCRIPTION DRUG ORDERS, SO AS TO PROVIDE CONDITIONS UNDER WHICH A PHARMACIST MAY REFUSE TO FILL A PRESCRIPTION; BY AMENDING SECTION 44-1-100, RELATING TO ASSISTANCE FROM PEACE AND HEALTH OFFICERS, SO AS TO REMOVE THE PROVISION THAT THE PUBLIC SAFETY AUTHORITY MAY REQUEST ASSISTANCE FROM THE STATE NATIONAL GUARD IN ENFORCING QUARANTINE MEASURES; BY AMENDING SECTION 44-4-130, RELATING TO PUBLIC HEALTH DEFINITIONS, SO AS TO PROVIDE DEFINITIONS OF \"GENE THERAPY\" AND \"VACCINE\" AND TO MAKE CONFORMING CHANGES; BY AMENDING SECTION 44-4-510, RELATING TO PHYSICAL EXAMINATIONS AND ISOLATION OR QUARANTINE OF PERSONS REFUSING EXAMINATION, SO AS TO PROVIDE THAT THE DEPARTMENT MAY ISOLATE A SYMPTOMATIC PERSON OR PERSON WHO HAS BEEN EXPOSED TO THE CONTAGIOUS DISEASE FOR WHICH A PUBLIC HEALTH EMERGENCY HAS BEEN DECLARED; BY AMENDING SECTION 44-4-520, RELATING TO VACCINATIONS AND TREATMENT, SO AS TO PROVIDE THAT THE DEPARTMENT MUST MONITOR THE SAFETY AND EFFICACY OF VACCINES, TESTS, AND TREATMENTS; BY AMENDING SECTION 44-4-530, RELATING TO ISOLATION AND QUARANTINE OF INDIVIDUALS OR GROUPS, AS WELL AS PENALTIES FOR NONCOMPLIANCE, SO AS TO PROVIDE A TIME LIMIT OF TWENTY-ONE DAYS FOR A QUARANTINED ASYMPTOMATIC PERSON; BY AMENDING SECTION 44-4-540, RELATING TO ISOLATION AND QUARANTINE PROCEDURES, SO AS TO CHANGE PROCEDURES; AND BY AMENDING SECTION 44-4-570, RELATING TO EMERGENCY POWERS REGARDING LICENSING OF HEALTH PERSONNEL, SO AS TO REMOVE THE REQUIREMENT THAT STATE HEALTH CARE PROVIDERS ASSIST IN THE PERFORMANCE OF VACCINATIONS AS A CONDITION OF LICENSURE."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Prefiled",
+      "date": "2024-12-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to Committee on Medical Affairs",
+      "date": "2024-12-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Introduced and read first time",
+      "date": "2025-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to Committee on Medical Affairs",
+      "date": "2025-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Committee report: Favorable Medical Affairs",
+      "date": "2025-04-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Scrivener's error corrected",
+      "date": "2025-04-22",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Martin",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Martin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rice",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Rice\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kimbrell",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Kimbrell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Leber",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Leber\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kennedy",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Kennedy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nutt",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Nutt\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Corbin",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Corbin\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "12/11/2024",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/54_20241211.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "04/15/2025",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/54_20250415.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "04/22/2025",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/54_20250422.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/54.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/54.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=54&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "scraped_at": "2025-07-28T18:29:24+00:00",
+  "_id": "c9a8bf76-6be0-11f0-bf34-96e81bacb000"
+}

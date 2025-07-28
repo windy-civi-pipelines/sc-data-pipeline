@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Unanimous consent for third reading on next legislative day",
+    "date": "2025-05-01",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "S 220"
+}

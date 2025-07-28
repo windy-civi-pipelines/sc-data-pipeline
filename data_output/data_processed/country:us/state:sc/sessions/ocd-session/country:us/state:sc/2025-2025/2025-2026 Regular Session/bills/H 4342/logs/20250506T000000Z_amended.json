@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amended",
+    "date": "2025-05-06",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "H 4342"
+}

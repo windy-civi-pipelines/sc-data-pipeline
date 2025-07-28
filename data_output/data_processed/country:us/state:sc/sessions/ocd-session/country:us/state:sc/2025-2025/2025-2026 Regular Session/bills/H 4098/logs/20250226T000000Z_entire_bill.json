@@ -1,0 +1,111 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "H 4098",
+  "title": "Employer and employee contribution rates under SCRS and PORS",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING SECTIONS 9-1-1085 AND 9-11-225, BOTH RELATING TO EMPLOYER AND EMPLOYEE CONTRIBUTION RATES UNDER THE SOUTH CAROLINA RETIREMENT SYSTEM AND THE POLICE OFFICERS RETIREMENT SYSTEM, RESPECTIVELY, SO AS TO  PROVIDE THAT AN EMPLOYER, UP TO CERTAIN LIMITS, MAY ELECT TO PAY ALL OR A PORTION OF REQUIRED EMPLOYEE CONTRIBUTIONS DURING A FISCAL YEAR; BY AMENDING SECTIONS 9-1-10 AND 9-11-10, BOTH RELATING TO THE SOUTH CAROLINA RETIREMENT SYSTEM DEFINITIONS AND TO THE POLICE OFFICERS RETIREMENT SYSTEM DEFINITIONS, RESPECTIVELY, SO AS TO PROVIDE WHAT IS NOT EARNABLE COMPENSATION AND TO PROVIDE THAT CERTAIN CONTRIBUTIONS PAID BY AN EMPLOYER ARE ACCUMULATED CONTRIBUTIONS OR AGGREGATE CONTRIBUTIONS; BY AMENDING SECTION 9-11-260, RELATING TO DEPOSIT OF ASSETS IN THE SYSTEM, SO AS TO PROVIDE FOR CERTAIN AMOUNTS PAID BY THE EMPLOYER IN LIEU OF EMPLOYEE CONTRIBUTIONS; BY AMENDING SECTIONS 9-1-1020, 9-1-1160, AND 9-11-210, ALL RELATING TO CONTRIBUTIONS OF MEMBERS, SO AS TO PROVIDE THAT THE EMPLOYER MAY PICK UP CERTAIN CONTRIBUTIONS IN THE AMOUNT DESIGNATED AS AN EMPLOYEE CONTRIBUTION IN CERTAIN CIRCUMSTANCES."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced and read first time",
+      "date": "2025-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to Committee on Ways and Means",
+      "date": "2025-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Moss",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Moss\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lawson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Lawson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Wooten",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Wooten\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "02/26/2025",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/4098_20250226.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4098.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4098.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=4098&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "scraped_at": "2025-07-28T18:32:11+00:00",
+  "_id": "2d117b02-6be1-11f0-bf34-96e81bacb000"
+}

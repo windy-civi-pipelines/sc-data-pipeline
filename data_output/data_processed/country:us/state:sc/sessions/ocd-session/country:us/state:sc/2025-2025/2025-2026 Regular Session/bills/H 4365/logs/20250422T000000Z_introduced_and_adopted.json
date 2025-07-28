@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Introduced and adopted",
+    "date": "2025-04-22",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "introduction",
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "H 4365"
+}

@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Introduced, adopted, returned with concurrence",
+    "date": "2025-02-18",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction",
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "H 3995"
+}

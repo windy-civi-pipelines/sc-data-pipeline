@@ -1,0 +1,136 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "H 3242",
+  "title": "SC School Bus Privatization",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY ADDING CHAPTER 68 TO TITLE 59 SO AS TO ENACT THE \"SOUTH CAROLINA SCHOOL BUS PRIVATIZATION ACT OF 2025,\" INCLUDING PROVISIONS TO PROVIDE THAT THE STATE OF SOUTH CAROLINA SHALL NOT OWN, PURCHASE, OR ACQUIRE ADDITIONAL SCHOOL BUSES ON OR AFTER JULY 1, 2029, AND ITS PRESENT FLEET OF SCHOOL BUSES BE SOLD OR DISPOSED OF ON A PHASED-IN BASIS BEGINNING IN 2026, TO PROVIDE THAT BEGINNING WITH THE 2026-2027 SCHOOL YEAR, SCHOOL DISTRICTS ON A PHASED-IN BASIS INDIVIDUALLY OR TOGETHER WITH OTHER DISTRICTS SHALL PROVIDE SCHOOL TRANSPORTATION SERVICES OR BY CONTRACT MAY ENGAGE A PRIVATE ENTITY TO PROVIDE SCHOOL TRANSPORTATION SERVICES WITH THE PRIVATE ENTITY PROVIDING ALL SCHOOL BUSES, PERSONNEL TO OPERATE, AND AUXILIARY SERVICES, AND TO PROVIDE FOR TERMS, CONDITIONS, PROCEDURES, AND REQUIREMENTS APPLICABLE TO THE PROVISION OF THESE SERVICES, TO PROVIDE THAT STATE SCHOOL BUS MAINTENANCE FACILITIES, ON A PHASED-IN BASIS BEGINNING IN 2026, SHALL BE LEASED OR SOLD TO SCHOOL DISTRICTS OR PRIVATE SCHOOL TRANSPORTATION PROVIDERS OR IN THE ABSENCE OF A SALE OR LEASE CLOSED, TO ESTABLISH A \"SCHOOL TRANSPORTATION REIMBURSEMENT FUND\" CONSISTING OF SPECIFIED FUNDS WHICH MUST BE USED TO REIMBURSE SCHOOL DISTRICTS FOR THE COST OF SCHOOL TRANSPORTATION SERVICES ON A FORMULA BASIS AND TO INCREASE TEACHER SALARIES FROM SAVINGS RESULTING FROM PRIVATIZATION, AND TO PROVIDE FOR THE LIABILITY INSURANCE REQUIREMENTS APPLICABLE TO PRIVATE ENTITIES PROVIDING SCHOOL TRANSPORTATION SERVICES AND FOR SCHOOL BUS, DRIVER, PASSENGER, AND EQUIPMENT REQUIREMENTS IN REGARD TO THESE SERVICES; BY AMENDING SECTION 59-67-460, RELATING TO CONTRACTS BY SCHOOL DISTRICTS FOR TRANSPORTATION SERVICES WITH PRIVATE CONTRACTORS, SO AS TO PROVIDE THAT A SCHOOL DISTRICT OR A GROUP OF SCHOOL DISTRICTS IS AUTHORIZED BY CONTRACT TO HAVE THEIR SCHOOL TRANSPORTATION SERVICES PROVIDED BY A PRIVATE ENTITY WHICH FURNISHES ITS OWN BUSES, PERSONNEL, AND AUXILIARY SERVICES PRIOR TO THE REQUIRED IMPLEMENTATION DATE OF THE DISTRICT'S ASSUMPTION OF RESPONSIBILITY FOR ALL SCHOOL TRANSPORTATION SERVICES IN THE DISTRICT AS REQUIRED BY CHAPTER 68, TITLE 59; AND BY REPEALING SECTION 59-67-460 EFFECTIVE JULY 1, 2029, RELATING TO SCHOOL TRANSPORTATION SERVICES WHEN THE RESPONSIBILITY TO PROVIDE THESE SERVICES IS TRANSFERRED FULLY TO THE SCHOOL DISTRICTS OF THIS STATE."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Prefiled",
+      "date": "2024-12-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to Committee on Ways and Means",
+      "date": "2024-12-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Introduced and read first time",
+      "date": "2025-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to Committee on Ways and Means",
+      "date": "2025-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Member(s) request name added as sponsor: Cromer, Harris",
+      "date": "2025-01-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Gilliard",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Gilliard\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cromer",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Cromer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Harris",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Harris\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "12/05/2024",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/3242_20241205.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3242.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3242.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=3242&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "scraped_at": "2025-07-28T18:39:51+00:00",
+  "_id": "3f5c1fa0-6be2-11f0-bf34-96e81bacb000"
+}

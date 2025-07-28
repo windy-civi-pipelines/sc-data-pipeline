@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Effective date 05/08/25",
+    "date": "2025-05-16",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "S 425"
+}

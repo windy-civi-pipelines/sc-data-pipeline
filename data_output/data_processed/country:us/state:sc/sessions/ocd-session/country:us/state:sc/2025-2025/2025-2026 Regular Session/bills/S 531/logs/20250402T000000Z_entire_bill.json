@@ -1,0 +1,119 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "S 531",
+  "title": "Healthcare Services",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS SO AS TO ENACT THE \"PATIENTS' RIGHT TO TRANSPARENCY AND TIMELY ACCESS TO HEALTHCARE SERVICES ACT\"; BY ADDING SECTION 44-116-10 SO AS TO DEFINE NECESSARY TERMS; BY ADDING SECTION 44-116-20 SO AS TO EXCLUDE CERTAIN HEALTHCARE PROVIDERS FROM PREAUTHORIZATION REQUIREMENTS WHO MEET A NINETY PERCENT THRESHOLD OF PREAUTHORIZATION REQUESTS FOR MEDICATIONS AND TREATMENTS DURING A PARTICULAR TIME PERIOD; BY ADDING SECTION 44-116-30 SO AS TO REQUIRE A FAIR AND TRANSPARENT PRIOR AUTHORIZATION PROCESS FOR MEDICATIONS AND TREATMENTS; BY ADDING SECTION 44-116-40 SO AS TO ESTABLISH TIMELINES FOR PREAUTHORIZATION DECISIONS; BY ADDING SECTION 44-116-50 SO AS TO PROHIBIT ONGOING PRIOR AUTHORIZATION REQUIREMENTS FOR PATIENTS LIVING WITH CHRONIC CONDITIONS AFTER PRIOR AUTHORIZATION HAS BEEN PROVIDED UNDER CERTAIN CIRCUMSTANCES; BY ADDING SECTION 44-116-60 SO AS TO PROHIBIT INSURANCE COMPANIES FROM SWITCHING PHARMACEUTICALS DURING A POLICY YEAR; BY ADDING SECTION 44-116-70 SO AS TO ALLOW FOR STEP THERAPY EXCEPTIONS; BY ADDING SECTION 44-116-80 SO AS TO PROVIDE THAT ONCE PRIOR AUTHORIZATION IS GRANTED, HEALTH CARRIERS MUST PAY FOR THE SERVICE WITH EXCEPTIONS; BY ADDING SECTION 44-116-90 SO AS TO REQUIRE CONTINUITY OF CARE WHEN A PATIENT CHANGES INSURANCE POLICIES; BY ADDING SECTION 44-116-100 SO AS TO REQUIRE CERTAIN FILINGS FOR INSURANCE COMPANIES FOR TRANSPARENCY CONCERNING APPROVAL AND DENIAL RATES; AND BY ADDING SECTION 44-116-110 SO AS TO PROVIDE FOR ENFORCEMENT OF THE CHAPTER."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced and read first time",
+      "date": "2025-04-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to Committee on Medical Affairs",
+      "date": "2025-04-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Johnson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Johnson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Walker",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Walker\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Peeler",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Peeler\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Devine",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Devine\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "04/02/2025",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/531_20250402.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/531.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/531.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=531&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "scraped_at": "2025-07-28T18:25:54+00:00",
+  "_id": "4c3118d6-6be0-11f0-bf34-96e81bacb000"
+}

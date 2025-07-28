@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Requests for debate-Rep(s). B Newton, BL Cox, Martin, Caskey, Lowe, Guest, Kirby, Collins, Weeks",
+    "date": "2025-03-26",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "H 3387"
+}

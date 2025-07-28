@@ -1,0 +1,109 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "H 4551",
+  "title": "Sine Die Addition",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "concurrent resolution"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A CONCURRENT RESOLUTION TO PROVIDE THAT IN ADDITION TO THE MATTERS WHICH MAY BE CONSIDERED BY THE GENERAL ASSEMBLY AFTER MAY 8, 2025, PURSUANT TO THE SINE DIE RESOLUTION FOR THE 2025 LEGISLATIVE SESSION AS PASSED BY THE GENERAL ASSEMBLY, LEGISLATION RELATING TO PARENTAL RIGHTS ALSO MAY BE INTRODUCED, RECEIVED, AND CONSIDERED BY EACH BODY OF THE GENERAL ASSEMBLY PRIOR TO SINE DIE ADJOURNMENT INCLUDING, BUT NOT LIMITED TO, CONCURRENCE, NONCONCURRENCE, AND APPOINTMENT OF CONFEREES; RECEIPT, CONSIDERATION, AND DISPOSITION OF CONFERENCE AND FREE CONFERENCE REPORTS; AND RECEIPT, CONSIDERATION, AND DISPOSITION OF ANY VETOES, IF APPLICABLE."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced",
+      "date": "2025-05-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Committed to Committee on Rules",
+      "date": "2025-05-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Roll call Yeas-90  Nays-20",
+      "date": "2025-05-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Cromer",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Cromer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Magnuson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Magnuson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "05/08/2025",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/4551_20250508.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4551.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4551.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=4551&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "scraped_at": "2025-07-28T18:29:37+00:00",
+  "_id": "d1091e64-6be0-11f0-bf34-96e81bacb000"
+}

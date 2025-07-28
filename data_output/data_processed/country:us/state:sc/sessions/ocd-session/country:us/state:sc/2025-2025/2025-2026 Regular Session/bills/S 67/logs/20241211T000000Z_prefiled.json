@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Prefiled",
+    "date": "2024-12-11",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "S 67"
+}

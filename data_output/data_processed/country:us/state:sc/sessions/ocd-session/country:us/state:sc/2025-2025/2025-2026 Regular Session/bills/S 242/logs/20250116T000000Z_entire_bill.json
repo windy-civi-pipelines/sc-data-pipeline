@@ -1,0 +1,111 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "S 242",
+  "title": "Parental Right to Dictate Health of Minor",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING SECTION 63-5-340, RELATING TO THE RIGHTS OF MINORS SIXTEEN YEARS OR OLDER TO CONSENT TO HEALTH SERVICES ESSENTIAL TO THEIR LIFE OR HEALTH, SO AS TO PROVIDE THAT PARENTS HAVE THE FUNDAMENTAL RIGHT TO DIRECT THE UPBRINGING, EDUCATION, AND CARE OF THEIR MINOR CHILDREN, TO PROVIDE THESE RIGHTS EXTEND TO HEALTHCARE DECISIONS CONCERNING THE MINORS AND ACCESS TO THEIR MEDICAL RECORDS, AND TO PROVIDE THE STATE MAY NOT SUBSTANTIALLY BURDEN THESE RIGHTS EXCEPT IN CERTAIN CIRCUMSTANCES; BY AMENDING SECTION 63-5-350, RELATING TO HEALTH SERVICES THAT MAY BE RENDERED TO MINORS WITHOUT PARENTAL CONSENT, SO AS TO PROVIDE THAT HEALTHCARE PROVIDERS MUST OBTAIN PARENTAL CONSENT BEFORE PROCURING, PROVIDING, OR RENDERING HEALTHCARE FOR A MINOR EXCEPT IN CERTAIN CIRCUMSTANCES, TO PROHIBIT THE ENCOURAGEMENT OR COERCION OF MINORS TO WITHHOLD INFORMATION FROM A PARENT ABOUT THE HEALTH OF THE CHILD, TO PROVIDE PARENTS MAY ASSERT PROVISIONS OF THIS ACT AS CLAIMS OR DEFENSES IN CERTAIN JUDICIAL OR ADMINISTRATIVE PROCEEDINGS SUBJECT TO A STATUTE OF LIMITATIONS, TO PROVIDE REMEDIES, TO PROVIDE THE ATTORNEY GENERAL MAY BRING ACTIONS TO ENFORCE PROVISIONS OF THIS ACT, AND TO DEFINE NECESSARY TERMS; AND BY REPEALING SECTION 63-5-370 RELATING TO CONSENT NOT SUBJECT TO DISAFFIRMANCE."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced and read first time",
+      "date": "2025-01-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to Committee on Family and Veterans' Services",
+      "date": "2025-01-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Cash",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Cash\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Leber",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Leber\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kennedy",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Kennedy\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "01/16/2025",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/242_20250116.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/242.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/242.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=242&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "scraped_at": "2025-07-28T18:27:47+00:00",
+  "_id": "8f9252f2-6be0-11f0-bf34-96e81bacb000"
+}

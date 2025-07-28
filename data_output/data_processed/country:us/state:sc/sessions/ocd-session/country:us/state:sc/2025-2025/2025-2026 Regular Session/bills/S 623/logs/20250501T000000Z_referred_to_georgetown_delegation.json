@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Referred to Georgetown Delegation",
+    "date": "2025-05-01",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "S 623"
+}

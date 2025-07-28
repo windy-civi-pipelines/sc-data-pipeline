@@ -1,0 +1,111 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "S 179",
+  "title": "Department of Children's Advocacy",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING SECTION 63-7-1990, RELATING TO CONFIDENTIALITY AND RELEASE OF RECORDS AND INFORMATION, SO AS TO AUTHORIZE DISCLOSURE OF CASE RECORDS TO COUNTY AND STATE GUARDIAN AD LITEM STAFF AND THE STATE CHILD ADVOCATE'S DIVISIONS; BY AMENDING SECTION 63-11-550, RELATING TO CONFIDENTIALITY OF RECORDS AND INFORMATION, SO AS TO PROVIDE THAT THE APPOINTED GUARDIAN AD LITEM CAN SHARE CASE RECORDS TO COUNTY AND STATE GUARDIAN AD LITEM STAFF AND THE STATE CHILD ADVOCATE'S DIVISIONS; BY AMENDING SECTION 63-11-700, RELATING TO THE DIVISION FOR REVIEW OF THE FOSTER CARE OF CHILDREN, SO AS TO UPDATE STATUTES RELATED TO THE STATE CHILD ADVOCATE'S DIVISION; BY AMENDING SECTION 63-11-1340, RELATING TO THE DIRECTOR AND OTHER STAFF, SO AS TO MAKE CONFORMING CHANGES; AND BY AMENDING SECTION 63-11-1360, RELATING TO THE ANNUAL REPORT, SO AS TO MAKE CONFORMING CHANGES."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced and read first time",
+      "date": "2025-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to Committee on Judiciary",
+      "date": "2025-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Recalled from Committee on Judiciary",
+      "date": "2025-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Committed to Committee on Family and Veterans' Services",
+      "date": "2025-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hutto",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Hutto\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "01/14/2025",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/179_20250114.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/179.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/179.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=179&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "scraped_at": "2025-07-28T18:29:15+00:00",
+  "_id": "c423ee2c-6be0-11f0-bf34-96e81bacb000"
+}

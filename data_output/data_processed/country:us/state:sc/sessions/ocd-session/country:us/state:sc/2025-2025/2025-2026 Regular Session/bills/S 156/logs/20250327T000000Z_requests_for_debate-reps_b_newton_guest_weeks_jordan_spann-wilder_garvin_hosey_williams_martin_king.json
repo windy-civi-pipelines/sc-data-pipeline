@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Requests for debate-Rep(s). B Newton, Guest, Weeks, Jordan, Spann-Wilder, Garvin, Hosey, Williams, Martin, King",
+    "date": "2025-03-27",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "S 156"
+}

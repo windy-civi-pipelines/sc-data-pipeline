@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Senate amendment amended",
+    "date": "2025-05-07",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-amendment"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "H 3127"
+}

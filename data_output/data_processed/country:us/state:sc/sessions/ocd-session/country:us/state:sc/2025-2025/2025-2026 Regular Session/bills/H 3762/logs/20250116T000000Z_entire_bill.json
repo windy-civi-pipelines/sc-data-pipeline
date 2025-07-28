@@ -1,0 +1,94 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "H 3762",
+  "title": "Impeachment, State Treasurer",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A HOUSE RESOLUTION TO DIRECT THE JUDICIARY COMMITTEE OF THE HOUSE OF REPRESENTATIVES TO UNDERTAKE AN IMMEDIATE INQUIRY AS TO WHETHER OR NOT UNDER SECTION 1, ARTICLE XV, OF THE CONSTITUTION OF THIS STATE, THE STATE TREASURER, CURTIS LOFTIS, SHOULD BE IMPEACHED FOR SERIOUS MISCONDUCT IN OFFICE INCLUDING, BUT NOT LIMITED TO, DERELICTION OF DUTY AND BREACH OF THE PUBLIC TRUST AND, IF BY CLEAR AND CONVINCING EVIDENCE SUFFICIENT GROUNDS ARE FOUND, TO REPORT ARTICLES OF IMPEACHMENT TO THE FLOOR OF THE HOUSE OF REPRESENTATIVES."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced",
+      "date": "2025-01-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to Committee on Judiciary",
+      "date": "2025-01-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Bauer",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Bauer\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "01/16/2025",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/3762_20250116.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3762.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3762.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=3762&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "scraped_at": "2025-07-28T18:35:09+00:00",
+  "_id": "970a6852-6be1-11f0-bf34-96e81bacb000"
+}

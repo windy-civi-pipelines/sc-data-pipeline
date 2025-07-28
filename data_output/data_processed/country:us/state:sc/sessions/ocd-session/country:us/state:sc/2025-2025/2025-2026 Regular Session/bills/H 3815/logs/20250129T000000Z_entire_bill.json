@@ -1,0 +1,137 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "H 3815",
+  "title": "House Rules revisions",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A HOUSE RESOLUTION TO AMEND RULES 6.3 14. AND 15., AND 8.9 OF THE RULES OF THE HOUSE OF REPRESENTATIVES, ALL RELATING TO THE MOTION PERIOD, SO AS TO DELETE THE MOTION PERIOD AND ALL REFERENCES TO IT, AND TO FURTHER AMEND 15. TO MAKE A TECHNICAL CHANGE TO MATTERS REGARDING SETTING SPECIAL ORDER; TO AMEND RULE 4.2 10., RELATING TO STANDING COMMITTEES AND THEIR MEMBERSHIPS, SO AS TO RENAME THE COMMITTEE ON LEGISLATIVE OVERSIGHT THE COMMITTEE ON GOVERNMENT EFFICIENCY AND LEGISLATIVE OVERSIGHT; TO AMEND RULE 5.20, RELATING TO RESOLUTIONS MEMORIALIZING CONGRESS, AN AGENCY, OR AN OFFICIAL, SO AS TO PROVIDE THESE MAY BE REFERRED TO THE COMMITTEE ON INVITATIONS AND MEMORIAL RESOLUTIONS OR TO THE APPROPRIATE COMMITTEE WITH SUBJECT MATTER JURISDICTION CONCERNING THE RESOLUTION; TO AMEND RULE 4.13, RELATING TO INVITATIONS, SO AS TO ALLOW THE COMMITTEE ON INVITATIONS AND MEMORIAL RESOLUTIONS TO ACCEPT INVITATIONS AS EARLY AS 5:00 P.M.; TO DELETE RULE 5.12 RELATING TO THE APRIL TENTH CROSSOVER DEADLINE FOR LEGISLATION; TO AMEND RULE 4.4, RELATING TO COMMITTEE OPERATIONS, SO AS TO REQUIRE STREAMING OF COMMITTEE AND SUBCOMMITTEE MEETINGS WHEN FEASIBLE AND PROVIDE A CAVEAT; TO ADD RULE 2.17 SO AS TO PROVIDE THAT THE CLERK, READING CLERK, CHAPLAIN, AND SERGEANT AT ARMS MUST PERFORM THEIR DUTIES IN A FAIR AND PROFESSIONAL MANNER THAT DOES NOT OPENLY REFLECT THEIR PERSONAL POLITICAL BELIEFS OR OPINIONS CONCERNING ISSUES, CAMPAIGNS, OR OTHER MATTERS BEFORE THE GENERAL ASSEMBLY; AND TO DELETE RULES 4.9, 4.10, 4.11, AND 4.12, ALL RELATING TO THE COMMITTEE OF THE WHOLE AND ITS OPERATION."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced",
+      "date": "2025-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Adopted",
+      "date": "2025-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Roll call Yeas-63  Nays-38",
+      "date": "2025-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Scrivener's error corrected",
+      "date": "2025-01-31",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Scrivener's error corrected",
+      "date": "2025-02-05",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "House Rules",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"chamber\": \"lower\", \"name\": \"House Rules\"}"
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "01/29/2025",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/3815_20250129.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "01/31/2025",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/3815_20250131.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "02/05/2025",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/3815_20250205.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3815.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3815.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=3815&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "scraped_at": "2025-07-28T18:34:48+00:00",
+  "_id": "89afd034-6be1-11f0-bf34-96e81bacb000"
+}

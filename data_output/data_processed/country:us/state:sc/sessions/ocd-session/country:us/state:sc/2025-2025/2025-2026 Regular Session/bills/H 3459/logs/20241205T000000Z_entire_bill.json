@@ -1,0 +1,137 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "H 3459",
+  "title": "Voter registration",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY ADDING SECTION 7-5-290 SO AS TO REQUIRE ORGANIZATIONS THAT INTEND TO CONDUCT VOTER REGISTRATION DRIVES TO REGISTER WITH THE STATE ELECTION COMMISSION AND COMPLY WITH CERTAIN OTHER REQUIREMENTS; BY AMENDING SECTION 7-1-25, RELATING TO THE MEANING OF \"DOMICILE\" FOR VOTING PURPOSES, SO AS TO REMOVE CERTAIN FACTORS FROM CONSIDERATION IN DETERMINING A PERSON'S DOMICILE, AND TO CLARIFY THAT A PERSON IS CONSIDERED TO HAVE CHANGED HIS DOMICILE IF HE REGISTERS TO VOTE OR VOTES IN ANOTHER JURISDICTION; BY AMENDING SECTION 7-3-20, RELATING TO THE DUTIES OF THE EXECUTIVE DIRECTOR OF THE STATE ELECTION COMMISSION, SO AS TO INCLUDE OVERSEEING THE REGISTRATION OF THIRD-PARTY VOTER REGISTRATION ORGANIZATIONS; BY AMENDING SECTION 7-3-60, RELATING TO REPORTS OF PERSONS CONVICTED OF CERTAIN OFFENSES FURNISHED BY CLERKS AND MAGISTRATES TO THE EXECUTIVE DIRECTOR OF THE STATE ELECTION COMMISSION, SO AS TO ALSO REQUIRE QUARTERLY REPORTS OF PERSONS WHO HAVE INDICATED IN RESPONSE TO JUROR SUMMONSES THAT THEY ARE NOT UNITED STATES CITIZENS; BY AMENDING SECTION 7-5-170, RELATING TO INFORMATION CONTAINED ON VOTER REGISTRATION APPLICATIONS, SO AS TO REQUIRE AN APPLICANT TO PROVIDE HIS DRIVER'S LICENSE OR STATE IDENTIFICATION CARD NUMBER OR, IF NONE, HIS SOCIAL SECURITY NUMBER; BY AMENDING SECTION 7-5-185, RELATING TO ELECTRONIC APPLICATIONS FOR VOTER REGISTRATION, SO AS TO REQUIRE AN APPLICANT'S DRIVER'S LICENSE OR STATE IDENTIFICATION CARD NUMBER, OR THE LAST FOUR DIGITS OF HIS SOCIAL SECURITY NUMBER; BY AMENDING SECTION 7-25-10, RELATING TO FALSE SWEARING IN APPLYING FOR REGISTRATION, SO AS TO INCREASE THE PENALTIES FOR VIOLATIONS OF THIS SECTION; AND BY ADDING SECTION 7-25-25 SO AS TO PROVIDE THAT IT IS UNLAWFUL TO KNOWINGLY FILL OUT INFORMATION ON ANOTHER PERSON'S VOTER REGISTRATION APPLICATION WITHOUT THAT PERSON'S KNOWLEDGE, AND TO PROVIDE PENALTIES FOR VIOLATIONS."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Prefiled",
+      "date": "2024-12-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to Committee on Judiciary",
+      "date": "2024-12-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Introduced and read first time",
+      "date": "2025-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to Committee on Judiciary",
+      "date": "2025-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "W. Newton",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"W. Newton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "B. Newton",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"B. Newton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pedalino",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Pedalino\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Taylor",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Taylor\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "12/05/2024",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/3459_20241205.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3459.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3459.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=3459&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "scraped_at": "2025-07-28T18:39:54+00:00",
+  "_id": "40de902e-6be2-11f0-bf34-96e81bacb000"
+}

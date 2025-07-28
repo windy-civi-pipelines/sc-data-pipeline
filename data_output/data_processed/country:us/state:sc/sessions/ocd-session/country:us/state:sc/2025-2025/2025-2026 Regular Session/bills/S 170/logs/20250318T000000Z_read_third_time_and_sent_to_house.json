@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Read third time and sent to House",
+    "date": "2025-03-18",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "S 170"
+}
