@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Read third time and enrolled",
+    "date": "2025-05-07",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "H 3632"
+}

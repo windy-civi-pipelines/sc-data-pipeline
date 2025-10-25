@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Committee report: Favorable Family and Veterans' Services",
+    "date": "2025-01-28",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "S 224"
+}

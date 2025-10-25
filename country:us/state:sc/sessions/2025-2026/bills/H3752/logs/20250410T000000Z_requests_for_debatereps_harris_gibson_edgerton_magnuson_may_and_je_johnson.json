@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Requests for debate-Rep(s). Harris, Gibson, Edgerton, Magnuson, May, and JE Johnson",
+    "date": "2025-04-10",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "H 3752"
+}

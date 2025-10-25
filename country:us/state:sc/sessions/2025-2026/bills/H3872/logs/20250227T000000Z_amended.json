@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amended",
+    "date": "2025-02-27",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "H 3872"
+}

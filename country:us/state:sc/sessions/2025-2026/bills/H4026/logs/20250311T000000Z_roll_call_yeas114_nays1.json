@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Roll call Yeas-114  Nays-1",
+    "date": "2025-03-11",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "H 4026"
+}

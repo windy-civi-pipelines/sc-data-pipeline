@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Member(s) request name added as sponsor: Teeple",
+    "date": "2025-02-04",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "H 3021"
+}

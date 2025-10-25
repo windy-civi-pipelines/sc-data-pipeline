@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Referred to Committee on Medical, Military, Public and Municipal Affairs",
+    "date": "2025-01-30",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "H 3842"
+}

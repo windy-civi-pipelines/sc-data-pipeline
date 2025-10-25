@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Certain items vetoed by Governor",
+    "date": "2025-06-03",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "executive-veto-line-item"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "H 4025"
+}

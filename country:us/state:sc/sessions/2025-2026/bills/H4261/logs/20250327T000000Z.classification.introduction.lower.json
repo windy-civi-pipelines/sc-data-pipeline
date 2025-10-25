@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Introduced, read first time, placed on calendar without reference",
+    "date": "2025-03-27",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "introduction",
+      "reading-1"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "H 4261"
+}

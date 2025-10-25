@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Member(s) request name added as sponsor: Schuessler",
+    "date": "2025-03-05",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "H 3974"
+}

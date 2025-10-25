@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Veto overridden Ayes-44  Nays-0",
+    "date": "2025-05-28",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "veto-override-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "S 136"
+}

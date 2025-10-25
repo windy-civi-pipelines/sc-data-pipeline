@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Adopted, returned to House with concurrence",
+    "date": "2025-02-06",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "H 3724"
+}

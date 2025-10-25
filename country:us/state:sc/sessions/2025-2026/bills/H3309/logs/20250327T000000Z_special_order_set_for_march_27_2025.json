@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Special order, set for March 27, 2025",
+    "date": "2025-03-27",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "H 3309"
+}

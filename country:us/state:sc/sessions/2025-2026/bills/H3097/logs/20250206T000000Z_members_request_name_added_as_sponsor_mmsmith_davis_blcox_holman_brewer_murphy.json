@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Member(s) request name added as sponsor: M.M.Smith, Davis, B.L.Cox, Holman, Brewer, Murphy",
+    "date": "2025-02-06",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "H 3097"
+}

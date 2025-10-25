@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Non-concurrence in House amendment",
+    "date": "2025-05-06",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "S 210"
+}

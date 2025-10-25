@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Introduced, adopted, sent to Senate",
+    "date": "2025-01-28",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "introduction",
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "H 3788"
+}

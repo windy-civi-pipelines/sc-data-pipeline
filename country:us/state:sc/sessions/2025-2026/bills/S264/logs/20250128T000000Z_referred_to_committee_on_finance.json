@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Referred to Committee on Finance",
+    "date": "2025-01-28",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "S 264"
+}
