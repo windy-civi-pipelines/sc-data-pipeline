@@ -20,7 +20,7 @@ jobs:
           fetch-depth: 0
 
       - name: Run text extraction action
-        uses: windy-civi/toolkit/actions/extract@main
+        uses: windy-civi/toolkit/actions/extract@fix/text-extraction-incremental-processing
         with:
           state: sc # South Carolina
           github-token: ${{ secrets.GITHUB_TOKEN }}
